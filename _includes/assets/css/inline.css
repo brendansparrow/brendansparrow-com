@@ -1,7 +1,21 @@
 :root {
-	--turkey: #FFF0EB;
-	--white: white;
-	--blue: blue;
+	--ghostwhite: #EFF3F6;
+	--white: #FFFFFF;
+	--silver: #BDC0C2;
+	--blue: #0E5A9E;
+	--red: #B4002E;
+	--green: #026726;
+	--orange: #E8993E;
+	--purple: #441448;
+	--deep-purple: #291E2A;
+	--dry-purple: #4F3951;
+
+	--bg: var(--ghostwhite);
+	--text-color: var(--dry-purple);
+	--heading-color: var(--deep-purple);
+
+	--body-font: "Source Sans Pro", "Avenir Next", "Avenir", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+	--headings-font: "Source Serif Pro", "Source Serif", "Charter", "Constantia", Georgia, serif;
 }
 
 *, *:before, *:after {
@@ -12,18 +26,26 @@ html,
 body {
 	padding: 0;
 	margin: 0;
-	font-family: "Avenir", "Avenir Next", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+	font-family: var(--body-font);
 }
 
 body {
 	display: grid;
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
-	background-color: var(--turkey);
+	background-color: var(--bg);
+	color: var(--text-color);
+	border: 20px solid var(--orange);
 }
 
 main {
 	max-width: 37.5em;
+	margin: 0 auto;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-family: var(--headings-font);
+	color: var(--heading-color);
 }
 
 p,
@@ -34,7 +56,7 @@ code {
 
 a[href],
 a[href]:visited {
-	color: var(--blue);
+	color: var(--red);
 }
 
 a[href]:not(:hover) {
@@ -81,6 +103,7 @@ ul {
 /* Header Logo (style as h2) */
 header > em {
 	display: block;
+	font-family: var(--headings-font);
 	font-size: 2em;
 	margin: .67em 0;
 	font-weight: bold;
@@ -110,8 +133,7 @@ header nav li a[data-current="current item"] {
 article {
 	margin-bottom: 1em;
 	padding-bottom: 1em;
-	border-bottom: 1px solid #eee;
-	border-bottom: 1px solid var(--white);
+	border-bottom: 1px solid var(--silver);
 }
 
 main > section > article > * {
@@ -165,7 +187,7 @@ button {
   padding: 1em;
   margin-bottom: 1em;
 	font-size: 1rem;
-	font-family: "Avenir", "Avenir Next", sans-serif;
+	font-family: var(--body-font);
 }
 
 input,
@@ -178,10 +200,11 @@ button {
 	background-color: var(--blue);
 	color: var(--white);
 	cursor: pointer;
+	font-family: var(--headings-font);
 }
 
 @media screen and (min-width:768px) {
 	:root {
-		font-size: 1.1rem;
+		font-size: 1.125rem;
 	}
 }
