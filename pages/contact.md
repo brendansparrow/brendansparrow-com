@@ -5,11 +5,7 @@ tags:
   - nav
 navtitle: Contact
 section: contact
-date: 2018-01-01
+date: 2019-05-01
 permalink: /contact/index.html
 ---
-The contact form on this page uses
-[Netlify Forms](https://www.netlify.com/docs/form-handling/) to process
-submissions, and saves them in your Netlify account where you can optionally
-set up notifications. Each submission is passed through a spam filter and if
-flagged, will display a CAPTCHA challenge to the user.
+Don’t let the web get you in a tangle. If you're looking for a thoughtful product design strategist that can help you make sense of the ever-changing digital landscape, get in touch. Together, we can create a bespoke digital experience that is focused on your audience and tailored around your personal brand.

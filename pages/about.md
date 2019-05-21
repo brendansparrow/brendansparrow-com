@@ -1,32 +1,16 @@
 ---
 title: About me
-date: 2017-01-01T00:00:00.000Z
+date: 2019-05-01T00:00:00.000Z
 permalink: /about/index.html
 navtitle: About
 tags:
   - nav
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-Add a few line breaks in here to test:-
-Capitalize  
-on  
-low  
-hanging  
-fruit  
+Hi, I'm Brendan Sparrow, a hybrid designer/developer, based in Lincolnshire.
 
-## Our services
+At the heart of my work is a keen focus on delivering outstanding results for my clients. I'm a generalist. Coding is the greatest tool I've ever come across, though, I first learnt to design before I learnt to code.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+My vision is to produce work that pushes traditional boundaries by exploring and embracing new ideas and technologies. My mission is to use technology to enhance people’s lives in small and subtle ways. I strive to make information universally available and affordable. My aim is to help bring clarity to the world, welcoming curious minds to the infinite pastures of the digital future. I do this by helping others do the best work they can and by crafting solutions to their problems that inspire curiosity while standing the test of time.
 
-### Blue-sky thinking
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-#### Management frameworks
-
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-##### Regulatory convergence
-
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Outside of my work, I'm a retired gamer, avid film buff and occasional artist.
