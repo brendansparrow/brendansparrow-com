@@ -17,6 +17,8 @@
 
 	--body-font: "Source Sans Pro", "Avenir Next", "Avenir", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 	--headings-font: "Source Serif Pro", "Source Serif", "Charter", "Constantia", Georgia, serif;
+	--monospace-font: "Courier New", "Courier", "Inconsolata", monospace;
+	--script-font: "Tillana", "Source Serif Pro", "Source Serif", Palatino, serif;
 }
 
 *, *:before, *:after {
@@ -40,8 +42,7 @@ body {
 }
 
 header,
-main,
-footer {
+main {
 	max-width: 37.5em;
 	margin: 0 auto;
 	padding: 1em;
@@ -50,6 +51,8 @@ footer {
 footer {
 	background-color: var(--deep-purple);
 	color: var(--ghostwhite);
+	font-family: var(--monospace-font);
+	text-align: center;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
@@ -207,6 +210,11 @@ button {
 	color: var(--white);
 	cursor: pointer;
 	font-family: var(--headings-font);
+}
+
+blockquote {
+	font-family: var(--script-font);
+	font-size: 1.5em;
 }
 
 @media screen and (min-width:768px) {
