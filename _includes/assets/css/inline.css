@@ -6,6 +6,7 @@
 	--red: #B4002E;
 	--green: #026726;
 	--orange: #E8993E;
+	--gold: #BBAA64;
 	--purple: #441448;
 	--deep-purple: #291E2A;
 	--dry-purple: #4F3951;
@@ -35,12 +36,22 @@ body {
 	grid-template-rows: auto 1fr auto;
 	background-color: var(--bg);
 	color: var(--text-color);
-	border: 20px solid var(--orange);
+	border: 4px solid var(--gold);
 }
 
-main {
+header,
+main,
+footer {
 	max-width: 37.5em;
 	margin: 0 auto;
+	padding: 1em;
+}
+
+footer {
+	background-color: var(--deep-purple);
+	color: var(--ghostwhite);
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -63,11 +74,6 @@ a[href]:not(:hover) {
 	text-decoration: none;
 }
 
-header,
-main,
-footer {
-	padding: 1em;
-}
 
 main {
 	padding-bottom: 2em;
@@ -206,5 +212,8 @@ button {
 @media screen and (min-width:768px) {
 	:root {
 		font-size: 1.125rem;
+	}
+	body {
+		border: 8px solid var(--gold);
 	}
 }
