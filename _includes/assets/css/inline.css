@@ -161,20 +161,27 @@ header > em a {
 }
 
 /* Header Nav */
-header nav ul :first-child {
+nav ul :first-child {
 	margin-left: 0;
 }
 
-header nav li {
+nav li {
 	display: inline-block;
 	margin: 0 .25em;
 }
 
-header nav li a[href]:not(:hover) {
+nav ul li {
+	padding: 0.75em;
+}
+nav ul li a {
+	padding: 0.75em 0.5em;
+}
+
+nav li a[href]:not(:hover) {
 	text-decoration: none;
 }
 
-header nav li a[data-current="current item"] {
+nav li a[data-current="current item"] {
 	font-weight: 700;
 	text-decoration: underline;
 }
@@ -285,6 +292,9 @@ footer {
 	padding: 1em 0;
 	margin: 0 -4px -4px -4px;
 }
+footer nav ul {
+	margin-left: -0.5em;
+}
 footer ul li a[href],
 footer ul li a[href]:visited {
 	color: var(--ghostwhite);
@@ -306,9 +316,6 @@ footer ul li a[href]:visited {
 		display: flex;
 		flex-direction: row;
 		justify-content: space-between;
-	}
-	header nav li {
-		margin: 0 .5em;
 	}
 
 	h1,
@@ -340,11 +347,10 @@ footer ul li a[href]:visited {
 		flex-direction: row;
 		justify-content: space-between;
 	}
-
 	ul {
 		display: flex;
 	}
-	ul li:not(:last-child) {
-		padding-right: 1em;
-	}
+  nav ul li {
+  	padding: 0;
+  }
 }
