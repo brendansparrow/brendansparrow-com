@@ -93,8 +93,11 @@ I thrive at building systems that deliver business value at minimal cost, while 
 The highlight of my 4-year stint at Sheffield agency, [Aspire Creative](https://www.aspirecreative.co.uk), was building this award-winning catering experience for Dine. The project involved planning, designing and coding the user flows and design system for an interactive menu-building app, tailored specifically for large events organisers and caterers. Not only was it great fun, but it went on to win [Best Use of Technology](https://www.thecaterer.com/articles/532082/cateys-2018-best-use-of-technology-award-dine-delivered
 ) at the 2018 Catey Awards.
 
-<small>🔗</small> <a href="https://www.dinedelivered.com" target="_blank" rel="noopener noreferrer">View the DineDelivered website</a>
-
+<ul class="list-inline">
+  <li>
+    <a class="site-link" href="https://www.dinedelivered.com" target="_blank" rel="noopener noreferrer">DineDelivered</a>
+  </li>
+</ul>
 
 ### LexisNexis
 
@@ -102,10 +105,10 @@ While at Aspire, I spent 2 years honing and maintaining the frontend interface f
 
 <ul class="list-inline">
   <li>
-    <small>🔗</small> <a href="https://www.lexisnexis.co.uk" target="_blank" rel="noopener noreferrer">LexisNexis UK</a>
+    <a class="site-link" href="https://www.lexisnexis.co.uk" target="_blank" rel="noopener noreferrer">LexisNexis UK</a>
   </li>
   <li>
-    <small>🔗</small> <a href="https://www.lexisnexis-es.co.uk" target="_blank" rel="noopener noreferrer">LexisNexis ES</a>
+    <a class="site-link" href="https://www.lexisnexis-es.co.uk" target="_blank" rel="noopener noreferrer">LexisNexis ES</a>
   </li>
 </ul>
 
@@ -116,12 +119,11 @@ Design and development for this Sheffield-based software development firm and th
 
 <ul class="list-inline">
   <li>
-    <small>🔗</small> <a href="https://www.polygonica.com" target="_blank" rel="noopener noreferrer">Polygonica</a>
+    <a class="site-link" href="https://www.polygonica.com" target="_blank" rel="noopener noreferrer">Polygonica</a>
   </li>
   <li>
-    <small>🔗</small> <a href="https://www.machineworks.com" target="_blank" rel="noopener noreferrer">Machineworks</a>
+    <a class="site-link" href="https://www.machineworks.com" target="_blank" rel="noopener noreferrer">Machineworks</a>
   </li>
-
 </ul>
 
 
@@ -129,6 +131,10 @@ Design and development for this Sheffield-based software development firm and th
 
 I've been lead designer at UK wool distributor and retailer, Artyarn, for a number of years. Core responsibilities have included establishing a design system for their portfolio of online shops built with the EKM e-commerce platform, as well as providing branding, graphic design and photography services.
 
-<small>🔗</small> <a href="https://www.artyarn.co.uk/" target="_blank" rel="noopener noreferrer">Artyarn</a>
+<ul class="list-inline">
+  <li>
+    <a class="site-link" href="https://www.artyarn.co.uk/" target="_blank" rel="noopener noreferrer">Artyarn</a>
+  </li>
+</ul>
 
 <h3><a href="/services">Read more about my design and development services</a></h3>

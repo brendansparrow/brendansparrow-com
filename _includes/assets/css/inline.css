@@ -176,6 +176,9 @@ nav ul li {
 nav ul li a {
 	padding: 0.75em 0.5em;
 }
+nav ul :first-child a {
+	padding-left: 0;
+}
 
 nav li a[href]:not(:hover) {
 	text-decoration: none;
@@ -198,6 +201,9 @@ main > section > article > * {
 	margin-bottom: .5em;
 }
 
+.list-inline {
+	margin-bottom: 1em;
+}
 .client-list {
 	columns: 2;
 	column-gap: 1em;
@@ -206,6 +212,21 @@ main > section > article > * {
 .client-list a {
 	display: block;
 	padding-bottom: 1em;
+}
+.site-link {
+	position: relative;
+	padding-top: 0.75em;
+	padding-bottom: 0.75em;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+.site-link::before {
+	position: absolute;
+	top: 0.75em;
+	left: -1em;
+	content: '🔗';
+	transform-origin: 50% 50%;
+	transform: scale(0.75);
 }
 
 /* Post Tags */
@@ -292,9 +313,7 @@ footer {
 	padding: 1em 0;
 	margin: 0 -4px -4px -4px;
 }
-footer nav ul {
-	margin-left: -0.5em;
-}
+
 footer ul li a[href],
 footer ul li a[href]:visited {
 	color: var(--ghostwhite);
