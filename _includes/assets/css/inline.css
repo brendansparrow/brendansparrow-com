@@ -285,6 +285,10 @@ footer {
 	padding: 1em 0;
 	margin: 0 -4px -4px -4px;
 }
+footer ul li a[href],
+footer ul li a[href]:visited {
+	color: var(--ghostwhite);
+}
 
 
 
