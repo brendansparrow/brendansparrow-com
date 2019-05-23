@@ -4,6 +4,17 @@
   <title>{{ title or renderData.title or metadata.title }}</title>
   <meta name="description" content="{{ description or renderData.description or metadata.description }}">
   <meta name="theme-color" content="#291E2A">
+
+  <meta property="og:url" content="https://www.brendansparrow.com/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Web Design and development services by Brendan Sparrow">
+  <meta property="og:image" content="https://www.brendansparrow.com/static/img/poster.jpg">
+  <meta property="og:image:alt" content="Website design with style and purpose">
+  <meta property="og:description" content="Brendan Sparrow is a Lincolnshire-based, freelance designer and web developer experienced in illustration, graphic design, brand consulting, art direction, UI design and front-end development.">
+  <meta property="og:site_name" content="BrendanSparrow.com">
+  <meta property="og:locale" content="en_GB">
+  <meta property="article:author" content="Brendan Sparrow">
+
   <link rel="preconnect" href="//identity.netlify.com">
   <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   {% set css %}
