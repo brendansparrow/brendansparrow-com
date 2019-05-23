@@ -1,26 +1,3 @@
-:root {
-	--ghostwhite: #EFF3F6;
-	--white: #FFFFFF;
-	--silver: #BDC0C2;
-	--blue: #0E5A9E;
-	--red: #A7002B;
-	--green: #026726;
-	--orange: #E8993E;
-	--gold: #BBAA64;
-	--purple: #441448;
-	--deep-purple: #291E2A;
-	--dry-purple: #4F3951;
-
-	--bg: var(--ghostwhite);
-	--text-color: var(--dry-purple);
-	--heading-color: var(--deep-purple);
-
-	--body-font: "Source Sans Pro", "Avenir Next", "Avenir", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-	--headings-font: "Source Serif Pro", "Source Serif", "Charter", "Constantia", Georgia, serif;
-	--monospace-font: "Courier New", "Courier", "Inconsolata", monospace;
-	--script-font: "Tillana", "Source Serif Pro", "Source Serif", Palatino, serif;
-}
-
 *, *:before, *:after {
   box-sizing: border-box;
 }
@@ -29,7 +6,7 @@ html,
 body {
 	padding: 0;
 	margin: 0;
-	font-family: var(--body-font);
+	font-family: "Source Sans Pro", "Avenir Next", "Avenir", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 }
 
 /* Layout */
@@ -38,9 +15,9 @@ body {
 	display: grid;
 	min-height: 100vh;
 	grid-template-rows: auto 1fr auto;
-	background-color: var(--bg);
-	color: var(--text-color);
-	border: 4px solid var(--gold);
+	background-color: #EFF3F6;
+	color: #4F3951;
+	border: 4px solid #BBAA64;
 }
 
 header,
@@ -57,8 +34,8 @@ section {
 }
 
 h1,h2,h3,h4,h5,h6 {
-	font-family: var(--headings-font);
-	color: var(--heading-color);
+	font-family: "Source Serif Pro", "Source Serif", "Charter", "Constantia", Georgia, serif;
+	color: #291E2A;
 	letter-spacing: -0.015em;
 }
 
@@ -94,7 +71,7 @@ code {
 
 a[href],
 a[href]:visited {
-	color: var(--red);
+	color: #A7002B;
 }
 
 a[href]:not(:hover) {
@@ -147,13 +124,13 @@ ul {
 
 small {
 	font-size: 14px;
-	font-family: var(--monospace-font);
+	font-family: "Courier New", "Courier", "Inconsolata", monospace;
 }
 
 
 /* Header Logo (style as h2) */
 header > em {
-	font-family: var(--headings-font);
+	font-family: "Source Serif Pro", "Source Serif", "Charter", "Constantia", Georgia, serif;
 	margin: .67em 0;
 	font-weight: bold;
 	font-style: normal;
@@ -197,7 +174,7 @@ nav li a[data-current="current item"] {
 article {
 	margin-bottom: 1em;
 	padding-bottom: 1em;
-	border-bottom: 1px solid var(--silver);
+	border-bottom: 1px solid #BDC0C2;
 }
 
 main > section > article > * {
@@ -249,18 +226,18 @@ a[rel="tag"]:visited {
 	padding: 0 .5em;
 	line-height: 2em;
 	height: 2em;
-	border: 1px solid var(--white);
-	background-color: var(--white);
-	color: var(--blue);
+	border: 1px solid white;
+	background-color: white;
+	color: #0E5A9E;
 	border-radius: .25em;
 	text-decoration: none;
 	margin: 0 .5em .5em 0;
 }
 
 a[rel="tag"]:hover {
-	border: 1px solid var(--blue);
-	background-color: var(--blue);
-	color: var(--white);
+	border: 1px solid #0E5A9E;
+	background-color: #0E5A9E;
+	color: white;
 }
 
 a[rel="tag"]:last-child {
@@ -287,7 +264,7 @@ button {
 	padding: 1em;
 	margin-bottom: 1em;
 	font-size: 1rem;
-	font-family: var(--body-font);
+	font-family: "Source Sans Pro", "Avenir Next", "Avenir", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 }
 
 input,
@@ -296,22 +273,22 @@ textarea {
 }
 
 button {
-	border: 1px solid var(--purple);
+	border: 1px solid #441448;
 	border-radius: 0.25em;
-	background-color: var(--purple);
-	color: var(--white);
+	background-color: #441448;
+	color: white;
 	cursor: pointer;
-	font-family: var(--headings-font);
+	font-family: "Source Serif Pro", "Source Serif", "Charter", "Constantia", Georgia, serif;
 	font-weight: 700;
 }
 button:hover,
 button:focus {
-	border: 1px solid var(--deep-purple);
-	background-color: var(--deep-purple);
+	border: 1px solid #291E2A;
+	background-color: #291E2A;
 }
 
 blockquote {
-	font-family: var(--script-font);
+	font-family: "Tillana", "Source Serif Pro", "Source Serif", Palatino, serif;
 	font-size: 1.5em;
 	line-height: 1.8;
 	max-width: 40ch;
@@ -320,8 +297,8 @@ blockquote {
 }
 
 cite {
-	font-family: var(--body-font);
-	color: var(--blue);
+	font-family: "Source Sans Pro", "Avenir Next", "Avenir", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+	color: #0E5A9E;
 	font-style: normal;
 	font-size: 1rem;
 	margin: 0;
@@ -329,8 +306,8 @@ cite {
 
 
 footer {
-	background-color: var(--deep-purple);
-	color: var(--ghostwhite);
+	background-color: #291E2A;
+	color: #EFF3F6;
 	text-align: center;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
@@ -340,7 +317,7 @@ footer {
 
 footer ul li a[href],
 footer ul li a[href]:visited {
-	color: var(--ghostwhite);
+	color: #EFF3F6;
 }
 
 
@@ -352,7 +329,7 @@ footer ul li a[href]:visited {
 		font-size: 1.125rem;
 	}
 	body {
-		border: 8px solid var(--gold);
+		border-width: 8px;
 	}
 
 	header {
