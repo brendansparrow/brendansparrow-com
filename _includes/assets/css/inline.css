@@ -61,6 +61,7 @@ section {
 
 h1,h2,h3,h4,h5,h6 {
 	font-family: "Source Serif Pro", "Source Serif", "Charter", "Constantia", Georgia, serif;
+	font-weight: 900;
 	color: #291E2A;
 	letter-spacing: -0.015em;
 }
@@ -305,7 +306,7 @@ button {
 	color: white;
 	cursor: pointer;
 	font-family: "Source Serif Pro", "Source Serif", "Charter", "Constantia", Georgia, serif;
-	font-weight: 700;
+	font-weight: 900;
 }
 button:hover,
 button:focus {
