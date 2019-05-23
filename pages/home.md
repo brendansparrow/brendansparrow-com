@@ -101,7 +101,7 @@ The highlight of my 4-year stint at Sheffield agency, [Aspire Creative](https://
 
 ### LexisNexis
 
-While at Aspire, I spent 2 years honing and maintaining the frontend interface for the UK branch of this international legal software provider and their Enterprise Solutions department. The highlight for me was developing a series of landing pages for their range of over 30 products, using Jekyll to speed up our publishing workflow.
+While at Aspire, I spent 2 years honing and maintaining the frontend interface for the UK branch of this international legal software provider and their Enterprise Solutions department. This also included developing a series of landing pages for their range of over 30 products, using a static site generator to speed up our publishing workflow.
 
 <ul class="list-inline">
   <li>
@@ -115,7 +115,7 @@ While at Aspire, I spent 2 years honing and maintaining the frontend interface f
 
 ### MachineWorks
 
-Design and development for this Sheffield-based software development firm and their core product, Polygonica. From initial prototyping and design straight through to production code, I had a hand in all stages of production. I have a soft spot for any 3D graphics and software so this was a really fun challenge.
+Design and development for this Sheffield-based software development firm. From initial prototyping, UI design and graphics straight through to production code, I had a hand in all stages of production. I have a soft spot for any 3D graphics and software so this was a really fun challenge.
 
 <ul class="list-inline">
   <li>
