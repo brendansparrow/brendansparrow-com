@@ -59,12 +59,13 @@ section {
 h1,h2,h3,h4,h5,h6 {
 	font-family: var(--headings-font);
 	color: var(--heading-color);
+	letter-spacing: -0.015em;
 }
 
 h1,
 .large-heading {
 	font-size: 1.5em;
-	line-height: 1;
+	line-height: 1.25;
 	margin-bottom: 0.25em;
 }
 h2 {
@@ -167,11 +168,11 @@ nav ul :first-child {
 
 nav li {
 	display: inline-block;
-	margin: 0 .25em;
 }
 
-nav ul li {
-	padding: 0.75em;
+nav ul li,
+.list-inline li {
+	padding: 0.75em 0;
 }
 nav ul li a {
 	padding: 0.75em 0.5em;
@@ -229,6 +230,10 @@ main > section > article > * {
 	transform: scale(0.75);
 }
 
+.illustrated {
+	margin: 1em 0;
+}
+
 /* Post Tags */
 a[rel="tag"],
 a[rel="tag"]:visited {
@@ -258,10 +263,13 @@ a[rel="tag"]:last-child {
 	margin-right: 0;
 }
 
+.services-link {
+	padding-bottom: 1.5em;
+}
+
 /* Contact Form */
 form {
 	display: grid;
-	padding: 2em 0;
 }
 
 form label {
@@ -301,6 +309,18 @@ button:focus {
 blockquote {
 	font-family: var(--script-font);
 	font-size: 1.5em;
+	line-height: 1.8;
+	max-width: 40ch;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+cite {
+	font-family: var(--body-font);
+	color: var(--blue);
+	font-style: normal;
+	font-size: 1rem;
+	margin: 0;
 }
 
 

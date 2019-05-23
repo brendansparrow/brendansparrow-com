@@ -11,7 +11,7 @@ My practice revolves around a need to define the strategic, creative and technol
 
 ### Research
 
-At the onset of any project, I start by building a profound understanding of the specific requirements of that industry, not just from stakeholders, but also from the people using the website or product. You'll benefit from direct research &amp; analysis to help define key problems and craft digital solutions that work for everyone.
+I start every project by building a profound understanding of the specific requirements of that industry. This applies not just to the company and its competitors, but also to the people using the website or product. You'll benefit from direct research &amp; analysis to help define key problems and craft digital solutions that work for everyone.
 
 
 ### User Experience (UX) Design
@@ -26,7 +26,7 @@ To put it simply, I can improve the effectiveness and penetration of your brand 
 
 ### Interface Design and Interaction
 
-Working on the visual side of a product is where I really start to excel. I am able to dig into your specific company requirements and imbue the final product with the right tone and personality for your brand. With 10 years experience in the design industry, I can create the best designs for beautiful, engaging, intuitive experiences.
+Working on the visual side of a product is where I really start to excel. Interface design goes beyond how the content looks. Visual design is about how to make the content communicate most effectively. I am able to dig into your specific company requirements and imbue the final product with the right tone and personality for your brand. With 10 years experience in the design industry, I can create the best designs for beautiful, engaging, intuitive experiences.
 
 ### Web development and API integration
 

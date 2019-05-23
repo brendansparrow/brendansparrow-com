@@ -137,4 +137,4 @@ I've been lead designer at UK wool distributor and retailer, Artyarn, for a numb
   </li>
 </ul>
 
-<h3><a href="/services">Read more about my design and development services</a></h3>
+<h3 class="services-link"><a href="/services">Read more about my design and development services</a></h3>
