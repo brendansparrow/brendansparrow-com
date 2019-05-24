@@ -1,6 +1,6 @@
 ---
 layout: layouts/contact.njk
-title: Get in touch
+title: Contact me
 tags:
   - nav
 navtitle: Contact

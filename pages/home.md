@@ -80,8 +80,7 @@ Hi, I’m [Brendan](/about), a designer, developer, strategist and educator. I s
 
 ## Services
 
-Over the last decade, I've worked with over 120 companies—large and small—to plan, design, code, test and maintain their digital products.
-I thrive at building systems that deliver business value at minimal cost, while keeping a firm hold on the human principles that drive us all to do better.
+Over the last decade, I've worked with over 120 companies—large and small—to plan, design, code, test and maintain their online presence. I thrive at building systems that deliver business value at minimal cost, while keeping a firm hold on the human principles that drive us all to do better.
 
 </section>
 
