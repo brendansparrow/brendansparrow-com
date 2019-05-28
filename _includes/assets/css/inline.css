@@ -1,5 +1,5 @@
-/* @font-face {
-  font-family: 'Source Sans Pro';
+@font-face {
+  font-family: 'SourceSans';
   font-style: normal;
   font-weight: normal;
   font-display: swap;
@@ -8,7 +8,7 @@
 }
 
 @font-face {
-  font-family: 'Source Serif Pro';
+  font-family: 'SourceSerif';
   font-style: normal;
   font-weight: 900;
   font-display: swap;
@@ -22,7 +22,7 @@
   font-display: swap;
   src: local('Tillana'), local('Tillana-Regular'), url('/static/fonts/Tillana-Regular-subset.woff2') format('woff2');
   unicode-range: U+2C,U+2E,U+41-5A,U+61-63,U+65-7A;
-} */
+}
 
 *, *:before, *:after {
   box-sizing: border-box;
@@ -32,7 +32,7 @@ html,
 body {
 	padding: 0;
 	margin: 0;
-	font-family: "Alegreya Sans","Source Sans Pro", "Avenir Next", "Avenir", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+	font-family: "SourceSans","Source Sans Pro", "Avenir Next", "Avenir", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 }
 
 /* Layout */
@@ -60,7 +60,7 @@ section {
 }
 
 h1,h2,h3,h4,h5,h6 {
-	font-family: "Vesper Libre","Source Serif Pro", "Source Serif", "Charter", "Constantia", Georgia, serif;
+	font-family: "SourceSerif","Source Serif Pro", "Source Serif", "Charter", "Constantia", Georgia, serif;
 	font-weight: 900;
 	color: #291E2A;
 	letter-spacing: -0.015em;
@@ -157,7 +157,7 @@ small {
 
 /* Header Logo (style as h2) */
 header > em {
-	font-family: "Vesper Libre", "Source Serif Pro", "Source Serif", "Charter", "Constantia", Georgia, serif;
+	font-family: "SourceSerif", "Source Serif Pro", "Source Serif", "Charter", "Constantia", Georgia, serif;
 	margin: .67em 0;
 	font-weight: bold;
 	font-style: normal;
@@ -291,7 +291,7 @@ button {
 	padding: 1em;
 	margin-bottom: 1em;
 	font-size: 1rem;
-	font-family: "Source Sans Pro", "Avenir Next", "Avenir", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+	font-family: "SourceSans","Source Sans Pro", "Avenir Next", "Avenir", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 }
 
 input,
@@ -305,7 +305,7 @@ button {
 	background-color: #441448;
 	color: white;
 	cursor: pointer;
-	font-family: "Vesper Libre", "Source Serif Pro", "Source Serif", "Charter", "Constantia", Georgia, serif;
+	font-family: "SourceSerif","Source Serif Pro", "Source Serif", "Charter", "Constantia", Georgia, serif;
 	font-weight: 900;
 }
 button:hover,
@@ -324,7 +324,7 @@ blockquote {
 }
 
 cite {
-	font-family: "Alegreya Sans", "Source Sans Pro", "Avenir Next", "Avenir", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+	font-family: "SourceSans", "Source Sans Pro", "Avenir Next", "Avenir", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 	color: #0E5A9E;
 	font-style: normal;
 	font-size: 1rem;
