@@ -1,6 +1,6 @@
 ---
 layout: layouts/contact.njk
-title: Contact me
+title: Contact
 tags:
   - nav
 navtitle: Contact
@@ -10,4 +10,4 @@ permalink: /contact/index.html
 ---
 
 
-Don’t hesitate to get in touch if you're looking for a web designer or have any queries about the work that I do. Though I'm based in Lincolnshire, UK, I'm comfortable working remotely and regularly travel for work.
+Don’t hesitate to get in touch if you're looking for a web designer or have any queries about the work that I do. I am available for remote work and quotes are given on a project-by-project basis.

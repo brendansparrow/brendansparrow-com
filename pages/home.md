@@ -9,7 +9,7 @@ tags:
 ---
 # Building digital products with style and purpose.
 
-Hi, I’m [Brendan](/about), a designer, developer, strategist and educator. I spend my time building brands, crafting websites and immersing myself in the troubled waters of the web where I teach my clients how to fish (metaphorical rods included).
+Hi, I’m [Brendan](/about), a freelance designer, developer and strategist. I spend my time building brands, crafting websites and immersing myself in the troubled waters of the web where I teach my clients how to fish (metaphorical rods included).
 
 
 <section class="illustrated">
@@ -80,7 +80,7 @@ Hi, I’m [Brendan](/about), a designer, developer, strategist and educator. I s
 
 ## Services
 
-Over the last decade, I've worked with over 120 companies—large and small—to plan, design, code, test and maintain their online presence. I thrive at building systems that deliver business value at minimal cost, while keeping a firm hold on the human principles that drive us all to do better.
+Over the last decade, I've worked with over 120 companies—large and small—to plan, design, code, test and maintain their online presence. I thrive off building systems that deliver business value at minimal cost, while keeping a firm hold on the human principles that drive us all to do better.
 
 </section>
 

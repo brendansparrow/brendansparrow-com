@@ -7,13 +7,9 @@ tags:
   - nav
 ---
 
-I'm Brendan Sparrow, a Lincolnshire-based, freelance web designer and developer. I've enjoyed success across a broad range of disciplines including illustration, layout design, art direction, front-end development, interaction and brand consulting.
+I'm Brendan Sparrow, a Lincolnshire-based, freelance web designer and developer. I've enjoyed success across a broad range of disciplines including illustration, layout design, art direction, front-end development, interaction design and brand consulting. Working across both design and code, I embrace my position as a creative generalist to make ideas a reality.
 
-At the heart of my craft is a keen focus on delivering outstanding results for my clients. My vision is to produce work that pushes traditional boundaries by exploring and embracing new ideas and technologies. My mission is to use technology to make people’s lives better in small and subtle ways every day.
-
-Working across both design and code, I embrace my position as a creative generalist to make information universally accessible and affordable. I consider it my duty to bring clarity to the world and invite more curious minds to the open web.
-
-Outside of my work, I like to make games, watch films and occasionally make art.
+At the heart of my craft is a keen focus on delivering outstanding results for my clients. My mission is to use technology to make people’s lives better in small, subtle ways each day, and to bring more curious minds to the open web.
 
 #### Places you'll find me:
 
