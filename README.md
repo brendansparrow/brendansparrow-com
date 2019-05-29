@@ -10,8 +10,8 @@ Based on [Eleventy-netlify-boilerplate](https://templates.netlify.com/template/e
 
 * Blog with tag support
 * Netlify CMS with editor previews
-* CSS 2kb minified, inlined for fastest page render
-* Pre-buildt and minified HTML
+* CSS minified and inlined for fastest page render
+* Pre-built and minified HTML
 * Responsive CSS Grid layout, with fallbacks
 * Uses Markdown files for content
 * Uses Liquid and/or Nunjucks templates for layout
