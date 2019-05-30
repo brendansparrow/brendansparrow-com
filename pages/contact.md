@@ -1,6 +1,6 @@
 ---
 layout: layouts/contact.njk
-title: Contact
+title: Contact Brendan Sparrow
 tags:
   - nav
 navtitle: Contact

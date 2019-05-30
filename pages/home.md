@@ -1,6 +1,6 @@
 ---
 layout: layouts/home.njk
-title: Home
+title: Web design services by Brendan Sparrow
 date: 2019-05-01T00:00:00.000Z
 permalink: /
 navtitle: Home

@@ -1,6 +1,6 @@
 ---
 layout: layouts/blog.njk
-title: Blog
+title: Writing by Brendan Sparrow
 tags:
   - nav
 navtitle: Blog
