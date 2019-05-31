@@ -37,7 +37,7 @@ body {
 	grid-template-rows: auto 1fr auto;
 	background-color: #fafbfc;
 	color: #4F3951;
-	border: 4px solid #BBAA64;
+	border: 4px solid #FD7166;
 }
 
 header,
@@ -54,7 +54,7 @@ section {
 }
 
 h1,h2,h3,h4,h5,h6 {
-	font-family: "SourceSerifBlack","Source Serif Pro", "Source Serif", "Charter", "Constantia", Georgia, serif;
+	/* font-family: "SourceSerifBlack","Source Serif Pro", "Source Serif", "Charter", "Constantia", Georgia, serif; */
 	font-weight: 900;
 	color: #291E2A;
 	letter-spacing: -0.015em;
@@ -92,7 +92,7 @@ code {
 
 a[href],
 a[href]:visited {
-	color: #A7002B;
+	color: #CC1A0E;
 }
 
 a[href]:not(:hover) {
@@ -151,7 +151,7 @@ small {
 
 /* Header Logo (style as h2) */
 header > em {
-	font-family: "SourceSerifBlack", "Source Serif Pro", "Source Serif", "Charter", "Constantia", Georgia, serif;
+	/* font-family: "SourceSerifBlack", "Source Serif Pro", "Source Serif", "Charter", "Constantia", Georgia, serif; */
 	margin: .67em 0;
 	font-weight: 900;
 	font-style: normal;
@@ -299,7 +299,7 @@ button {
 	background-color: #441448;
 	color: white;
 	cursor: pointer;
-	font-family: "SourceSerifBlack","Source Serif Pro", "Source Serif", "Charter", "Constantia", Georgia, serif;
+	/* font-family: "SourceSerifBlack","Source Serif Pro", "Source Serif", "Charter", "Constantia", Georgia, serif; */
 	font-weight: 900;
 }
 button:hover,
@@ -309,7 +309,7 @@ button:focus {
 }
 
 blockquote {
-	font-family: "Tillana", "Source Serif Pro", "Source Serif", Palatino, serif;
+	/* font-family: "Tillana", "Source Serif Pro", "Source Serif", Palatino, serif; */
 	font-size: 1.5em;
 	line-height: 1.8;
 	max-width: 40ch;
@@ -318,7 +318,7 @@ blockquote {
 }
 
 cite {
-	font-family: "Avenir Next", "Avenir", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+	/* font-family: "Avenir Next", "Avenir", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; */
 	color: #0E5A9E;
 	font-style: normal;
 	font-size: 1rem;
