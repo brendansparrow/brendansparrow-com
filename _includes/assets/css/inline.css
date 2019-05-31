@@ -3,7 +3,7 @@
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url(/SourceSerifPro-Black-subset.woff2) format("woff2"), url(/SourceSerifPro-Black-subset.woff) format("woff");
+  src: url(/static/fonts/SourceSerifPro-Black-subset.woff2) format("woff2"), url(/static/fonts/SourceSerifPro-Black-subset.woff) format("woff");
   unicode-range: U+20-7E,U+A9,U+2014,U+2019,U+1F517;
 }
 
@@ -12,7 +12,7 @@
   font-style: normal;
   font-weight: normal;
   font-display: swap;
-  src: url(/Tillana-Regular-subset.woff2) format("woff2"), url(/Tillana-Regular-subset.woff) format("woff");
+  src: url(/static/fonts/Tillana-Regular-subset.woff2) format("woff2"), url(/static/fonts/Tillana-Regular-subset.woff) format("woff");
   unicode-range: U+20-7E,U+A9,U+2014,U+2019,U+1F517;
 }
 
