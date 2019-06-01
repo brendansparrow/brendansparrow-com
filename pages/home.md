@@ -80,7 +80,7 @@ Hi, I’m [Brendan](/about), a freelance designer, developer and strategist. Ove
 
 ## Services
 
-I've worked with over 120 companies—large and small—to plan, design, code, test and maintain their online presence. I thrive off building systems that deliver value at minimal cost to you, while keeping a firm hold on the human principles that drive us all to do better.
+I've worked with over 120 companies—large and small—to plan, design, code, test and maintain their online presence. I enjoy building systems that deliver value at minimal cost. After 4 years in-agency, I made a return in January to working fully remotely as a freelancer.
 
 </section>
 
@@ -114,7 +114,7 @@ While at Aspire, I spent 2 years honing and maintaining the frontend interface f
 
 ### MachineWorks
 
-Design and development for this Sheffield-based software development firm. From initial prototyping, UI design and graphics straight through to production code, I had a hand in all stages of production. I have a soft spot for any 3D graphics and software so this was a really fun challenge.
+Design and development for this Sheffield-based software development firm included initial prototyping, UI design and graphics production straight through to developing code. I had a hand in all stages of production.
 
 <ul class="list-inline">
   <li>
@@ -128,7 +128,7 @@ Design and development for this Sheffield-based software development firm. From 
 
 ### Artyarn
 
-I've been lead designer at UK wool distributor and retailer, Artyarn, for a number of years. Core responsibilities have included establishing a design system for their portfolio of online shops built with the EKM e-commerce platform, as well as providing branding, graphic design and photography services.
+I've been lead designer at UK wool distributor and retailer, Artyarn, for several years. Core responsibilities have included establishing a design system for their online shop built with the EKM e-commerce platform, as well as providing branding, graphic design and photography services.
 
 <ul class="list-inline">
   <li>
