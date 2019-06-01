@@ -362,11 +362,9 @@ footer ul li a[href]:visited {
 
 /* responsive */
 @media screen and (min-width:768px) {
-	:root {
-		font-size: 1.125rem;
-	}
 	body {
 		border-width: 8px;
+		font-size: 112.5%;
 	}
 
 	header {
