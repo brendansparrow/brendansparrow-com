@@ -9,7 +9,7 @@ tags:
 ---
 # Building digital products with style and purpose.
 
-Hi, I’m [Brendan](/about), a freelance designer, developer and strategist. Over the past ten years, I've been building brands, crafting websites and generally helping others get the most out of their business ventures.
+Hi, I’m [Brendan](/about), a freelance designer, developer and strategist. Over the past ten years, I've been building brands, crafting websites and generally helping other people like you get the most out of their business ventures.
 
 
 <section class="illustrated">
