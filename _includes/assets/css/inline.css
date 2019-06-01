@@ -396,6 +396,9 @@ footer ul li a[href]:visited {
 		margin-top: -1.5em;
 		transform: rotate(3deg);
 	}
+	.hire {
+		margin-right: -2em;
+	}
 
 	.client-list {
 		columns: 3;
