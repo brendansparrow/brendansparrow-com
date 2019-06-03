@@ -300,7 +300,7 @@ button {
 	color: white;
 	cursor: pointer;
 	/* font-family: "SourceSerifBlack","Source Serif Pro", "Source Serif", "Charter", "Constantia", Georgia, serif; */
-	font-weight: 900;
+	font-weight: 700;
 }
 button:hover,
 button:focus {

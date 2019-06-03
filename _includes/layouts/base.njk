@@ -4,7 +4,6 @@
 	{% include "components/head.njk" %}
 
 	<body>
-
 		<header>
 			<em>
 				<a href="{{ '/' | url }}">
@@ -16,11 +15,12 @@
 </svg>
 				<span class="hidden">{{ metadata.title }}</span>
 				</a>
+        <a class="hidden" href="#maincontent">Skip to main content</a>
 			</em>
 			{% include "components/nav.njk" %}
 		</header>
 
-		<main>
+		<main id="maincontent">
 			{{ layoutContent | safe }}
 		</main>
 
