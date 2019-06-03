@@ -360,7 +360,7 @@ footer ul li a[href]:visited {
 
 
 
-/* responsive */
+/* tablet+ */
 @media screen and (min-width:768px) {
 	body {
 		border-width: 8px;
@@ -413,3 +413,9 @@ footer ul li a[href]:visited {
   	padding: 0;
   }
 }
+
+/* desktop+ */
+@media screen and (min-width:1280px) {
+	body {
+		font-size: 125%;
+	}
