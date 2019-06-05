@@ -80,7 +80,9 @@ Hi, I’m [Brendan](/about), a freelance designer, developer and strategist. Ove
 
 ## Services
 
-I've worked with over 120 companies—large and small—to plan, design, code, test and maintain their online presence. I enjoy building systems that deliver value at minimal cost. After 4 years in-agency, I made a return in January to working fully remotely as a freelancer.
+I've worked with over 120 companies—large and small—to plan, design, code, test and maintain their online presence. I enjoy building systems that deliver value at minimal cost. After 4 years in-agency, I made a return in January to working fully remotely as a freelance consultant.
+
+<h3 class="services-link"><a href="/services">Read more about my design and development services</a></h3>
 
 </section>
 
@@ -135,5 +137,3 @@ I've been lead designer at UK wool distributor and retailer, Artyarn, for severa
     <a class="site-link" href="https://www.artyarn.co.uk/" target="_blank" rel="noopener noreferrer">Artyarn</a>
   </li>
 </ul>
-
-<h3 class="services-link"><a href="/services">Read more about my design and development services</a></h3>
