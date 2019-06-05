@@ -11,7 +11,6 @@ tags:
 
 Hi, I’m [Brendan](/about), a freelance designer, developer and strategist. Over the past ten years, I've been building brands, crafting websites and generally helping other people like you get the most out of their business ventures.
 
-
 <section class="illustrated">
 
 <svg xmlns="http://www.w3.org/2000/svg" width="240" height="223">
@@ -86,13 +85,11 @@ I've worked with over 120 companies—large and small—to plan, design, code, t
 
 </section>
 
-
 ## Featured Projects
 
 ### Dine Delivered
 
-The highlight of my 4-year stint at Sheffield agency, [Aspire Creative](https://www.aspirecreative.co.uk), was building this award-winning catering experience for Dine. The project involved planning, designing and coding the user flows and design system for an interactive menu-building app, tailored specifically for large events organisers and caterers. Not only was it great fun, but it went on to win [Best Use of Technology](https://www.thecaterer.com/articles/532082/cateys-2018-best-use-of-technology-award-dine-delivered
-) at the 2018 Catey Awards.
+The highlight of my 4-year stint at Sheffield agency, [Aspire Creative](https://www.aspirecreative.co.uk), was building this award-winning catering experience for Dine. The project involved planning, designing and coding the user flows and design system for an interactive menu-building app, tailored specifically for large events organisers and caterers. Not only was it great fun, but it went on to win [Best Use of Technology](https://www.thecaterer.com/articles/532082/cateys-2018-best-use-of-technology-award-dine-delivered) at the 2018 Catey Awards.
 
 <ul class="list-inline">
   <li>
@@ -113,7 +110,6 @@ While at Aspire, I spent 2 years honing and maintaining the frontend interface f
   </li>
 </ul>
 
-
 ### MachineWorks
 
 Design and development for this Sheffield-based software development firm included initial prototyping, UI design and graphics production straight through to developing code. I had a hand in all stages of production.
@@ -126,7 +122,6 @@ Design and development for this Sheffield-based software development firm includ
     <a class="site-link" href="https://www.machineworks.com" target="_blank" rel="noopener noreferrer">Machineworks</a>
   </li>
 </ul>
-
 
 ### Artyarn
 
