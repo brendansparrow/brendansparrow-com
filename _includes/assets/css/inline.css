@@ -265,10 +265,6 @@ a[rel="tag"]:last-child {
 	margin-right: 0;
 }
 
-.services-link {
-	padding-bottom: 1.5em;
-}
-
 /* Contact Form */
 form {
 	display: grid;
