@@ -38,6 +38,8 @@ body {
 	background-color: #fafbfc;
 	color: #4F3951;
 	border: 4px solid #FD7166;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
 }
 
 header,
