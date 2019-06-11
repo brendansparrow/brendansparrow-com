@@ -37,9 +37,18 @@ body {
 	grid-template-rows: auto 1fr auto;
 	background-color: #fafbfc;
 	color: #4F3951;
-	border: 4px solid #FD7166;
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased;
+	overflow-x:hidden;
+}
+body::after {
+	content:'';
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border: 4px solid #FD7166;
 }
 
 header,
@@ -325,6 +334,7 @@ cite {
 
 
 footer {
+	position: relative;
 	background-color: #291E2A;
 	color: #EFF3F6;
 	text-align: center;
@@ -332,6 +342,19 @@ footer {
 	-moz-osx-font-smoothing: grayscale;
 	padding: 1em 0;
 }
+@supports (transform: rotate(1deg)) {
+  footer::before {
+  	content: '';
+  	position: absolute;
+  	top: -20px;
+  	left: 0;
+  	width: 100%;
+  	height: 40px;
+  	background-color: #291E2A;
+  	transform: rotate(1deg);
+  }
+}
+
 
 footer ul li a[href],
 footer ul li a[href]:visited {
@@ -361,8 +384,10 @@ footer ul li a[href]:visited {
 /* tablet+ */
 @media screen and (min-width:768px) {
 	body {
-		border-width: 8px;
 		font-size: 112.5%;
+	}
+	body::after {
+		border-width: 8px;
 	}
 
 	header {
