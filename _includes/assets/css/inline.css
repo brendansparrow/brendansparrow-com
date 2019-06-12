@@ -48,7 +48,7 @@ body::after {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	border: 4px solid #FD7166;
+	border: 4px solid #FFBE41;
 	pointer-events: none;
 	touch-action: none;
 }
