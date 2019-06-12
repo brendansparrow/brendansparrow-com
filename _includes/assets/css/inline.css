@@ -303,18 +303,26 @@ textarea {
 }
 
 button {
-	border: 1px solid #441448;
+	border: 1px solid #E3214D;
 	border-radius: 0.25em;
-	background-color: #441448;
+	background-color: #FF782B;
+	background-image: linear-gradient(270deg, #FF782B 0%, #FF3051 100%);
 	color: white;
 	cursor: pointer;
 	/* font-family: "SourceSerifBlack","Source Serif Pro", "Source Serif", "Charter", "Constantia", Georgia, serif; */
 	font-weight: 700;
+	transition: all .2s;
 }
 button:hover,
 button:focus {
-	border: 1px solid #291E2A;
+	border: 1px solid #46238E;
 	background-color: #291E2A;
+	background-image: linear-gradient(270deg, #E47F1D 0%, #E3234E 100%);
+	background-image: linear-gradient(270deg, #8342D9 0%, #33175D 100%);
+}
+button:active {
+	background-image: linear-gradient(270deg, #47FFBB 0%, #008889 100%);
+  border: 1px solid #008889;
 }
 
 blockquote {
@@ -337,7 +345,7 @@ cite {
 
 footer {
 	position: relative;
-	background-color: #291E2A;
+	background-color: #1E0033;
 	color: #EFF3F6;
 	text-align: center;
 	-webkit-font-smoothing: antialiased;
@@ -352,7 +360,7 @@ footer {
   	left: 0;
   	width: 100%;
   	height: 40px;
-  	background-color: #291E2A;
+  	background-color: #1E0033;
   	transform: rotate(1deg);
   }
 }
