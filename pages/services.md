@@ -159,39 +159,99 @@ All work listed below was undertaken between 2014 and 2019 while working for She
 
 <h3>Aspire Creative</h3>
 <div class="client-list">
-  <a href="https://www.dine.co.uk" target="_blank" rel="noopener noreferrer">Dine</a>
-  <a href="https://www.lexisnexis.com" target="_blank" rel="noopener noreferrer">LexisNexis</a>
-  <a href="http://www.redfaireinternational.com" target="_blank" rel="noopener noreferrer">Redfaire</a>
-  <a href="https://www.machineworks.com" target="_blank" rel="noopener noreferrer">Machineworks</a>
-  <a href="https://www.polygonica.com">Polygonica</a>
-  <a href="http://www.cloudhouse.com" target="_blank" rel="noopener noreferrer">Cloudhouse</a>
-  <a href="https://www.adventurelv.com" target="_blank" rel="noopener noreferrer">Airstream</a>
-  <a href="https://www.carrspasties.co.uk" target="_blank" rel="noopener noreferrer">Carrs Pasties</a>
-  <a href="http://www.astonspringsfarm.co.uk/" target="_blank" rel="noopener noreferrer">Aston Springs Farm</a>
-  <a href="http://www.dadsmatteruk.org" target="_blank" rel="noopener noreferrer">Dads Matter</a>
-  <a href="https://www.campbellharrison.co.uk" target="_blank" rel="noopener noreferrer">Campbell Harrison</a>
-  <a href="http://www.agentpublicrelations.co.uk/" target="_blank" rel="noopener noreferrer">Agent PR</a>
-  <a href="http://www.fowlersandford.com/" target="_blank" rel="noopener noreferrer">Fowler Sandford</a>
-  <a href="https://www.smilecustomerexperience.com/" target="_blank" rel="noopener noreferrer">Smile CE</a>
-  <a href="http://stfcbatteries.org/" target="_blank" rel="noopener noreferrer">STFC Batteries</a>
-  <a href="http://www.nusec.uk/" target="_blank" rel="noopener noreferrer">NUSEC</a>
-  <a href="http://www.envradnet.co.uk/">EnvRadNet</a>
-  <a href="http://www.kwsbiotest.com/" target="_blank" rel="noopener noreferrer">KWS Biotest</a>
+  <div class="list-item">
+    <a href="https://www.dine.co.uk" target="_blank" rel="noopener noreferrer">Dine</a>
+  </div>
+  <div class="list-item">
+    <a href="https://www.lexisnexis.com" target="_blank" rel="noopener noreferrer">LexisNexis</a>
+  </div>
+  <div class="list-item">
+    <a href="http://www.redfaireinternational.com" target="_blank" rel="noopener noreferrer">Redfaire</a>
+  </div>
+  <div class="list-item">
+    <a href="https://www.machineworks.com" target="_blank" rel="noopener noreferrer">Machineworks</a>
+  </div>
+  <div class="list-item">
+    <a href="https://www.polygonica.com">Polygonica</a>
+  </div>
+  <div class="list-item">
+    <a href="http://www.cloudhouse.com" target="_blank" rel="noopener noreferrer">Cloudhouse</a>
+  </div>
+  <div class="list-item">
+    <a href="https://www.adventurelv.com" target="_blank" rel="noopener noreferrer">Airstream</a>
+  </div>
+  <div class="list-item">
+    <a href="https://www.carrspasties.co.uk" target="_blank" rel="noopener noreferrer">Carrs Pasties</a>
+  </div>
+  <div class="list-item">
+    <a href="http://www.astonspringsfarm.co.uk/" target="_blank" rel="noopener noreferrer">Aston Springs Farm</a>
+  </div>
+  <div class="list-item">
+    <a href="http://www.dadsmatteruk.org" target="_blank" rel="noopener noreferrer">Dads Matter</a>
+  </div>
+  <div class="list-item">
+    <a href="https://www.campbellharrison.co.uk" target="_blank" rel="noopener noreferrer">Campbell Harrison</a>
+  </div>
+  <div class="list-item">
+    <a href="http://www.agentpublicrelations.co.uk/" target="_blank" rel="noopener noreferrer">Agent PR</a>
+  </div>
+  <div class="list-item">
+    <a href="http://www.fowlersandford.com/" target="_blank" rel="noopener noreferrer">Fowler Sandford</a>
+  </div>
+  <div class="list-item">
+    <a href="https://www.smilecustomerexperience.com/" target="_blank" rel="noopener noreferrer">Smile CE</a>
+  </div>
+  <div class="list-item">
+    <a href="http://stfcbatteries.org/" target="_blank" rel="noopener noreferrer">STFC Batteries</a>
+  </div>
+  <div class="list-item">
+    <a href="http://www.nusec.uk/" target="_blank" rel="noopener noreferrer">NUSEC</a>
+  </div>
+  <div class="list-item">
+    <a href="http://www.envradnet.co.uk/">EnvRadNet</a>
+  </div>
+  <div class="list-item">
+    <a href="http://www.kwsbiotest.com/" target="_blank" rel="noopener noreferrer">KWS Biotest</a>
+  </div>
 </div>
 <h3>EdHQ</h3>
 <div class="client-list">
-  <a href="http://www.sandalmagna.co.uk/" target="_blank" rel="noopener noreferrer">Sandal Magna</a>
-  <a href="https://www.theharmonytrust.org/" target="_blank" rel="noopener noreferrer">Harmony Trust</a>
-  <a href="http://www.lydgateinfant.co.uk/" target="_blank" rel="noopener noreferrer">Lydgate Infant School</a>
-  <a href="http://www.spirejunior.co.uk/" target="_blank" rel="noopener noreferrer">Spire Junior School</a>
-  <a href="https://www.westwaysprimary.co.uk/" target="_blank" rel="noopener noreferrer">Westways Primary</a>
-  <a href="http://www.durringtoninfantjunior.co.uk/" target="_blank" rel="noopener noreferrer">Durrington Primary</a>
-  <a href="http://www.bradwayprimary.co.uk/" target="_blank" rel="noopener noreferrer">Bradway Primary School</a>
-  <a href="http://www.ecclesfieldprimary.co.uk/" target="_blank" rel="noopener noreferrer">Ecclesfield Primary</a>
-  <a href="http://www.coitprimary.co.uk/" target="_blank" rel="noopener noreferrer">Coit Primary</a>
-  <a href="http://riversdale.edhq.co.uk/" target="_blank" rel="noopener noreferrer">Riversdale Primary</a>
-  <a href="http://www.flanshawjin.co.uk/" target="_blank" rel="noopener noreferrer">Flanshaw JIN School</a>
-  <a href="https://www.annsgrove.co.uk/" target="_blank" rel="noopener noreferrer">Anns Grove Primary</a>
+  <div class="list-item">
+    <a href="http://www.sandalmagna.co.uk/" target="_blank" rel="noopener noreferrer">Sandal Magna</a>
+  </div>
+  <div class="list-item">
+    <a href="https://www.theharmonytrust.org/" target="_blank" rel="noopener noreferrer">Harmony Trust</a>
+  </div>
+  <div class="list-item">
+    <a href="http://www.lydgateinfant.co.uk/" target="_blank" rel="noopener noreferrer">Lydgate Infant School</a>
+  </div>
+  <div class="list-item">
+    <a href="http://www.spirejunior.co.uk/" target="_blank" rel="noopener noreferrer">Spire Junior School</a>
+  </div>
+  <div class="list-item">
+    <a href="https://www.westwaysprimary.co.uk/" target="_blank" rel="noopener noreferrer">Westways Primary</a>
+  </div>
+  <div class="list-item">
+    <a href="http://www.durringtoninfantjunior.co.uk/" target="_blank" rel="noopener noreferrer">Durrington Primary</a>
+  </div>
+  <div class="list-item">
+    <a href="http://www.bradwayprimary.co.uk/" target="_blank" rel="noopener noreferrer">Bradway Primary School</a>
+  </div>
+  <div class="list-item">
+    <a href="http://www.ecclesfieldprimary.co.uk/" target="_blank" rel="noopener noreferrer">Ecclesfield Primary</a>
+  </div>
+  <div class="list-item">
+    <a href="http://www.coitprimary.co.uk/" target="_blank" rel="noopener noreferrer">Coit Primary</a>
+  </div>
+  <div class="list-item">
+    <a href="http://riversdale.edhq.co.uk/" target="_blank" rel="noopener noreferrer">Riversdale Primary</a>
+  </div>
+  <div class="list-item">
+    <a href="http://www.flanshawjin.co.uk/" target="_blank" rel="noopener noreferrer">Flanshaw JIN School</a>
+  </div>
+  <div class="list-item">
+    <a href="https://www.annsgrove.co.uk/" target="_blank" rel="noopener noreferrer">Anns Grove Primary</a>
+  </div>
 </div>
 
 </section>

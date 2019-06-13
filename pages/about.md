@@ -18,25 +18,25 @@ tags:
 
 #### Places you'll find me:
 
-<nav class="nav">
+<nav class="social-links">
   <ul>
   <li class="nav-item">
-    <a href="https://www.twitter.com/brendansparrow" target="_blank" rel="noopener noreferrer">Twitter</a>
-  </li>
-  <li class="navitem">
-    <a href="https://www.codepen.com/brendansparrow" target="_blank" rel="noopener noreferrer">Codepen</a>
+    <a class="site-link" href="https://www.twitter.com/brendansparrow" target="_blank" rel="noopener noreferrer">Twitter</a>
   </li>
   <li class="nav-item">
-    <a href="https://www.github.com/brendansparrow" target="_blank" rel="noopener noreferrer">Github</a>
+    <a class="site-link" href="https://www.codepen.com/brendansparrow" target="_blank" rel="noopener noreferrer">Codepen</a>
   </li>
   <li class="nav-item">
-    <a href="https://www.pinterest.com/brendansparrow" target="_blank" rel="noopener noreferrer">Pinterest</a>
+    <a class="site-link" href="https://www.github.com/brendansparrow" target="_blank" rel="noopener noreferrer">Github</a>
   </li>
   <li class="nav-item">
-    <a href="https://www.instagram.com/btsparrow" target="_blank" rel="noopener noreferrer">Instagram</a>
+    <a class="site-link" href="https://www.pinterest.com/brendansparrow" target="_blank" rel="noopener noreferrer">Pinterest</a>
   </li>
   <li class="nav-item">
-    <a href="https://www.letterboxd.com/brendansparrow" target="_blank" rel="noopener noreferrer">Letterboxd</a>
+    <a class="site-link" href="https://www.instagram.com/btsparrow" target="_blank" rel="noopener noreferrer">Instagram</a>
+  </li>
+  <li class="nav-item">
+    <a class="site-link" href="https://www.letterboxd.com/brendansparrow" target="_blank" rel="noopener noreferrer">Letterboxd</a>
   </li>
   </ul>
 </nav>

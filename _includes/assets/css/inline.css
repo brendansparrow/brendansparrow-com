@@ -108,8 +108,24 @@ a[href]:visited {
 	color: #CC1A0E;
 }
 
-a[href]:not(:hover) {
+a[href],
+a[href]:hover {
 	text-decoration: none;
+}
+
+p a[href],
+.site-link,
+.client-list a {
+	background: linear-gradient(to top,#F8BE8E 40%,transparent 40%);
+	border-bottom: 0.05em solid transparent;
+	padding: 0 0.125em;
+}
+p a[href]:hover,
+.site-link:hover,
+.client-list a:hover {
+  background: #F8BE8E;
+  color: #1E0033;
+  border-bottom: 0.05em solid #1E0033;
 }
 
 .sr-only,
@@ -195,13 +211,8 @@ nav ul :first-child a {
 	padding-left: 0;
 }
 
-nav li a[href]:not(:hover) {
-	text-decoration: none;
-}
-
 nav li a[data-current="current item"] {
 	font-weight: 700;
-	text-decoration: underline;
 }
 
 /* Posts List */
@@ -225,20 +236,17 @@ main > section > article > * {
 	column-gap: 1em;
 	padding: 1em 0;
 }
-.client-list a {
+.client-list .list-item {
 	display: block;
 	padding-bottom: 1em;
 }
 .site-link {
 	position: relative;
-	padding-top: 0.75em;
-	padding-bottom: 0.75em;
 	margin-left: 1em;
 	margin-right: 1em;
 }
 .site-link::before {
 	position: absolute;
-	top: 0.75em;
 	left: -1em;
 	content: '🔗';
 	transform-origin: 50% 50%;
@@ -264,7 +272,6 @@ a[rel="tag"]:visited {
 	background-color: white;
 	color: #0E5A9E;
 	border-radius: .25em;
-	text-decoration: none;
 	margin: 0 .5em .5em 0;
 }
 

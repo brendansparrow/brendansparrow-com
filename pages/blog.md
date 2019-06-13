@@ -13,18 +13,18 @@ This section of my site will be coming soon. I'm still in the process of transfe
 If you'd like to receive an update when it's ready, please [get in touch](/contact") or consider following me via the appropriate channels:
 
 <nav class="nav">
-  <ul>
+  <ul class="social-links">
   <li class="nav-item">
-    <a href="https://www.twitter.com/brendansparrow" target="_blank" rel="noopener noreferrer">Twitter</a>
+    <a class="site-link" href="https://www.twitter.com/brendansparrow" target="_blank" rel="noopener noreferrer">Twitter</a>
   </li>
   <li class="nav-item">
-    <a href="https://www.instagram.com/btsparrow" target="_blank" rel="noopener noreferrer">Instagram</a>
+    <a class="site-link" href="https://www.instagram.com/btsparrow" target="_blank" rel="noopener noreferrer">Instagram</a>
   </li>
   <li class="nav-item">
-    <a href="https://www.github.com/brendansparrow" target="_blank" rel="noopener noreferrer">Github</a>
+    <a class="site-link" href="https://www.github.com/brendansparrow" target="_blank" rel="noopener noreferrer">Github</a>
   </li>
   <li class="nav-item">
-    <a href="https://www.pinterest.com/brendansparrow" target="_blank" rel="noopener noreferrer">Pinterest</a>
+    <a class="site-link" href="https://www.pinterest.com/brendansparrow" target="_blank" rel="noopener noreferrer">Pinterest</a>
   </li>
   </ul>
 </nav>
