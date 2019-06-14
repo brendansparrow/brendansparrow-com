@@ -93,7 +93,7 @@ The highlight of my 4-year stint at Sheffield agency, [Aspire Creative](https://
 
 <ul class="list-inline">
   <li>
-    <a class="site-link" href="https://www.dinedelivered.com" target="_blank" rel="noopener noreferrer">DineDelivered</a>
+    <a class="site-link" href="https://www.dinedelivered.co.uk" target="_blank" rel="noopener noreferrer">DineDelivered</a>
   </li>
 </ul>
 
