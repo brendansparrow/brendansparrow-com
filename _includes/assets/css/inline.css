@@ -437,3 +437,22 @@ footer ul li a[href]:visited {
 	body {
 		font-size: 125%;
 	}
+}
+
+@supports (animation: fadeIn 0.2s normal ease-out) {
+	main {
+		animation: fadeIn 0.2s normal ease-out;
+		}
+	@keyframes fadeIn {
+		from {
+			opacity: 0.01;
+			transform: translateY(8px);
+		}
+		to {
+			opacity: .99;
+			transform: translateY(0);
+		}
+	}
+}
+
+
