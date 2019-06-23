@@ -453,6 +453,30 @@ footer ul li a[href]:visited {
 			transform: translateY(0);
 		}
 	}
+
+	.nav-item:hover {
+		transition: all .15s ease-out;
+		transform: translateY(-4px);
+	}
+
+	.logo:hover {
+		transition: all .75s;
+		transform-origin: bottom left;
+		animation: bounce .75s normal;
+	}
+
+
+	@keyframes bounce {
+		0%, 20%, 50%, 80%, 100% {
+			transform: translateY(0);
+		}
+		40% {
+			transform: translateY(-8px);
+			}
+		60% {
+			transform: rotate(-2deg) translateY(-15px) ;
+		}
+	}
 }
 
 
