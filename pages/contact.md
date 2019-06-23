@@ -10,4 +10,4 @@ permalink: /contact/index.html
 ---
 
 
-Don’t hesitate to get in touch if you're looking for a web designer or have any queries about the work that I do. I am available for remote work and quotes are given on a project-by-project basis.
+Please get in touch if you're looking for a web designer or have any queries about the work that I do. I am available for remote work and quotes are given on a project-by-project basis.
