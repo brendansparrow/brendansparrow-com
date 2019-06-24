@@ -79,7 +79,7 @@ Hi, I’m [Brendan](/about), a freelance web designer and developer. Over the pa
 
 ## Services
 
-I've worked with over 120 companies&mdash;large and small&mdash;to plan, design, code, test and maintain their online presence. Skilled in both design and code, I provide a complete service from sketch to server.
+I've worked with over 120 companies&mdash;large and small&mdash;to plan, design, code, test and maintain their online presence. Meticulous and skilled in both design and code, I provide a complete service from sketch to server.
 
 <a href="/services">View design and development services</a>
 
