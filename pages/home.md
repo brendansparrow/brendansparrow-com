@@ -9,7 +9,7 @@ tags:
 ---
 # Building digital products with style and purpose.
 
-Hi, I’m [Brendan](/about), a freelance designer, developer and strategist. Over the past ten years, I've been building brands, crafting websites and generally helping people like you get the most out of their business.
+Hi, I’m [Brendan](/about), a freelance web designer and developer. Over the past ten years, I've been building brands, crafting websites and generally helping people like you get the most out of their business.
 
 <section class="illustrated">
 
@@ -79,7 +79,7 @@ Hi, I’m [Brendan](/about), a freelance designer, developer and strategist. Ove
 
 ## Services
 
-I've worked with over 120 companies&mdash;large and small&mdash;to plan, design, code, test and maintain their online presence. Skilled in both design and code, I provide a complete service for my clients.
+I've worked with over 120 companies&mdash;large and small&mdash;to plan, design, code, test and maintain their online presence. Skilled in both design and code, I provide a complete service from sketch to server.
 
 <a href="/services">View design and development services</a>
 
