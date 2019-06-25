@@ -462,7 +462,7 @@ footer ul li a[href]:visited {
 	.logo:hover {
 		transition: all .75s;
 		transform-origin: bottom left;
-		animation: bounce .75s normal;
+		animation: bounce .75s reverse;
 	}
 
 
