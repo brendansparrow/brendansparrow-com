@@ -1,18 +1,9 @@
 @font-face {
-  font-family: 'SourceSerifBlack';
-  font-style: normal;
-  font-weight: 900;
-  font-display: swap;
-  src: url(/SourceSerifPro-Black-subset.woff2) format("woff2"), url(/SourceSerifPro-Black-subset.woff) format("woff");
-  unicode-range: U+20-7E,U+A9,U+2014,U+2019,U+1F517;
-}
-
-@font-face {
   font-family: 'Tillana';
   font-style: normal;
   font-weight: normal;
   font-display: swap;
-  src: url(/static/fonts/Tillana-Regular-subset.woff2) format("woff2"), url(/static/fonts/Tillana-Regular-subset.woff) format("woff");
+  src: url(./static/fonts/Tillana-Regular-subset.woff2) format("woff2"), url(./static/fonts/Tillana-Regular-subset.woff) format("woff");
   unicode-range: U+20-7E,U+A9,U+2014,U+2019,U+1F517;
 }
 
@@ -24,7 +15,7 @@ html,
 body {
 	padding: 0;
 	margin: 0;
-	font-family: "Avenir Next", "Avenir", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+	font-family: "Alegreya Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 	letter-spacing: -0.0125em;
 	word-spacing: 0.0325em;
 }
@@ -55,7 +46,8 @@ section {
 }
 
 h1,h2,h3,h4,h5,h6 {
-	/* font-family: "SourceSerifBlack","Source Serif Pro", "Source Serif", "Charter", "Constantia", Georgia, serif; */
+	/*font-family: "SourceSerifBlack","Source Serif Pro", "Source Serif", "Charter", "Constantia", Georgia, serif;*/
+	font-family: "Avenir Next", "Avenir", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 	font-weight: 900;
 	color: #291E2A;
 	letter-spacing: -0.015em;
@@ -289,7 +281,7 @@ button {
 	padding: 1em;
 	margin-bottom: 1em;
 	font-size: 1rem;
-	font-family: "Avenir Next", "Avenir", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+	font-family: inherit;
 }
 
 input,
