@@ -4,7 +4,7 @@
 	{% include "components/head.njk" %}
 
 	<body>
-		<header>
+		<header class="site-header">
 			<em>
 				<a class="logo" href="{{ '/' | url }}">
 <svg xmlns="http://www.w3.org/2000/svg" width="60" height="41">
@@ -24,6 +24,7 @@
 			{{ layoutContent | safe }}
 		</main>
 
+    {% include "components/hire.njk" %}
 		{% include "components/footer.njk" %}
 
 	</body>

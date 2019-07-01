@@ -1,4 +1,4 @@
-<form name="contact" method="POST" netlify-honeypot="bot-field" netlify>
+<!--<form name="contact" method="POST" netlify-honeypot="bot-field" netlify>
   <p class="hidden">
     <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
   </p>
@@ -9,4 +9,56 @@
   <label for="message">Message</label>
   <textarea name="message" id="message" placeholder="Write your message here" rows="7" required></textarea>
   <button type="submit" name="submit">Send Message</button>
-</form>
+</form>-->
+
+<section class="form-section">
+<div class="contact-form">
+  <header class="form-header">
+    <h2 class="form-title">I'm here to help&hellip;</h2>
+    <hr>
+    <p>Fill in the form if you&rsquo;d like to:</p>
+    <ul>
+      <li>Discuss your project</li>
+      <li>Receive a quote</li>
+      <li>Book me for a talk or workshop</li>
+    </ul>
+  </header>
+  <form class="form" name="contact" method="POST" netlify-honeypot="bot-field" netlify>
+    <input type="hidden" name="form-name" value="contact" />
+    <p class="hidden" aria-hidden="true">
+      <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+    </p>
+
+    <div class="form-group">
+      <label class="label" for="name">Name (required)</label>
+      <input class="input" type="text" id="name" name="name" autocomplete="name" placeholder="Type your name here" required pattern=.*\S.*>
+      <p class="small error-text">Please enter your name</p>
+    </div>
+
+    <div class="form-group">
+      <label class="label" for="email">Email address (required)</label>
+      <input class="input" type="email" id="email" name="email" autocomplete="email" placeholder="Your email address" pattern="^([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22))*\x40([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d))*(\.\w{2,})+$" required>
+      <p class="small error-text">Please enter your email address</p>
+    </div>
+
+    <div class="form-group">
+      <label class="label" for="projectDescription">Project Description (optional)</label>
+      <select class="select" id="projectDescription" name="projectDescription">
+        <option value="New Design">Website Design</option>
+        <option value="Redesign">Website Redesign</option>
+        <option value="Rebrand">Rebrand</option>
+        <option value="Workshop">Talk/Workshop</option>
+        <option value="Workshop">General enquiry</option>
+      </select>
+      <p class="small error-text">Please enter your email address</p>
+    </div>
+
+    <div class="form-group">
+      <label class="label" for="projectDetails">Project Details (optional)</label>
+      <textarea class="textarea" name="projectDetails" id="projectDetails" cols="30" rows="6" placeholder="e.g. project scope, deadline, company information, early ideas. The more you can tell me about your project, the faster I’ll be able to get to work on it."></textarea>
+    </div>
+
+    <button class="form-button" type="submit" name="contact">Let’s talk</button
+  </form>
+</div>
+</section>
