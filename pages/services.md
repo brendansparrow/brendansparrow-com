@@ -8,7 +8,7 @@ tags:
 ---
 
 <div class="illustrated">
-  <p>My practice revolves around the need to deliver the most robust, responsive &amp; performant digital solutions for my clients. I embrace a user-centred design approach to help build valuable products that solve real-world problems.</p>
+  <p>Robust, responsive &amp; performant solutions for real-world problems. I embrace a user-centred design approach to help build digital products with real value.</p>
 <svg xmlns="http://www.w3.org/2000/svg" width="270" height="253">
   <g fill="none" fill-rule="nonzero" style="mix-blend-mode:multiply">
     <path fill="#B3B3B3" d="M43.822 243.112c-.461.434 20.837 11.632 58.762 8.983 4.037-.275 11.276-3.442 15.3-3.866 5.179-.504 10.421-.258 15.583-.928 5.162-.67 10.434-2.442 13.963-6.256-25.09 6.667-65.676 1.47-91.21 2.123-5.75.149-9.474.78-12.364-.068-.016.002-.027.006-.034.012-2.876-.851-4.93-3.147-7.336-8.832-4.329-10.254-4.295-23.708-2.488-34.453 1.087-6.46 2.92-13.594-.517-19.168-2.314-3.747-6.49-5.815-10.154-8.257C10.21 163.675 2.26 148.305.449 132.604c-1.81-15.7 2.014-31.655 8.631-45.999 2.323-5.023 5.023-9.948 8.789-13.987 6.105-6.57 14.512-10.377 22.162-15.04A105.325 105.325 0 0 0 66.46 34.655c5.953-7.206 11-15.289 17.948-21.545 20.678-18.587 54.345-16.167 77.333-.539 15.012 10.194 26.808 25.212 43.314 32.74 17.491 8.003 39.54 7.333 53.058 21.037 6.926 7.016 10.375 16.866 11.488 26.666a69.087 69.087 0 0 1-14.187 49.89c-9.948 12.62-25.066 23.36-26.026 39.421-.474 7.948 2.826 15.683 2.962 23.644.22 11.445-6.72 22.715-17.022 27.658-17.627 8.456-59.727 5.264-67.918 7.439-25.112 6.667-65.676 1.466-91.206 2.12-5.75.148-9.474.77-12.364-.069a8.329 8.329 0 0 1-.017-.005z" opacity=".18"/>
@@ -34,13 +34,13 @@ tags:
 
 ### Research
 
-I start every project by building a profound understanding of the specific requirements of that industry. This applies not just to the company and its competitors, but also to the people using the website or product. You'll benefit from direct research &amp; analysis to help define key problems and craft digital solutions that work for everyone.
+I start every project by building an understanding of the specific requirements of that industry to help define key problems and craft digital solutions that work for everyone.
 
 
 ### User Experience (UX) Design
 
 <div class="illustrated">
-  <p>I have an obsession with user-focused design and a compulsive need to simplify complex information flows to make things easier for the average reader. Together, we will identify core opportunities for your business, develop strategies to support your users and apply an agile approach to research, information architecture, rapid prototyping and testing to ensure the user experience is the best it can be.</p>
+  <p>I have an obsession with user-focused design and a compulsive need to simplify complex information flows to improve he user experience. Together, we will identify core opportunities for your business, develop strategies to support your users and apply an agile approach to research, information architecture, rapid prototyping and testing to ensure the user experience is the best it can be.</p>
   <svg xmlns="http://www.w3.org/2000/svg" width="250" height="235">
   <g fill="none" fill-rule="nonzero">
     <ellipse cx="182.529" cy="231.623" fill="#B3B3B3" opacity=".25" rx="33.975" ry="2.853"/>
@@ -68,7 +68,7 @@ I can improve the effectiveness and penetration of your brand online by providin
 
 ### Interface Design and Interaction
 
-Working on the visual side of a product is where I really start to excel. Interface design goes beyond how the content looks. Visual design is about how to make the content communicate most effectively. I’m able to dig into your specific company requirements and imbue the final product with the right tone and personality for your brand. With 10 years experience in the design industry, I can create the best designs for beautiful, engaging, intuitive experiences.
+Working on the visual side of a product is where I excel. Interface design goes beyond how the content looks. Visual design is about how to make the content communicate most effectively. I’m able to dig into your specific company requirements and imbue the final product with the right tone and personality for your brand. With 10 years experience in the design industry, I can create the best designs for beautiful, engaging, intuitive experiences.
 
 ### Web development and API integration
 
@@ -136,7 +136,7 @@ Working on the visual side of a product is where I really start to excel. Interf
     <path fill="#939393" d="M233.692 181.079l-.584-.11c-1.871-2.956-5.235-4.855-8.114-5.703-4.277-1.26-9.093-1.1-13.618-.936l-.05-1.85s9.909-.55 15.777 2.269c3.72 1.794 6.589 6.33 6.589 6.33z"/>
   </g>
 </svg>
-<p>I've been delivering commercial web projects for clients for over 7 years. My deep technical knowledge and methodical approach to development means all products are built to deliver performance, reliability and scalability. Throughout the process I leverage version control, design systems and the latest build tools to ensure the highest quality.</p>
+<p>I've been delivering commercial web projects for clients for over 7 years. My deep technical knowledge and methodical approach to development delivers performance, reliability and scalability. Throughout the process I leverage version control, design systems and the latest build tools to ensure the highest quality.</p>
 </div>
 
 
@@ -149,7 +149,7 @@ An often overlooked area of web development is the performance of the final prod
 
 ## Client List
 
-All work listed below was undertaken between 2014 and 2019 while working for Sheffield-based agencies [EdHQ](https://www.edhq.co.uk) and [Aspire Creative](https://www.aspirecreative.co.uk), where I undertook both creative and development roles as a Developer/Designer. Credit must be given to the excellent team of designers, developers and marketing managers for their involvement in completing these projects, of which I played my part. Neither list is comprehensive but should offer an insight into the variety of industries I've been involved in.
+Previous experience includes working for Sheffield-based agencies [EdHQ](https://www.edhq.co.uk) and [Aspire Creative](https://www.aspirecreative.co.uk), where I undertook both creative and development roles as a Developer/Designer. All work listed below completed between 2014 and 2019.
 
 <h3>Aspire Creative</h3>
 <div class="client-list">

@@ -90,7 +90,7 @@ I've worked with over 120 companies&mdash;large and small&mdash;to plan, design,
 
 ### Dine Delivered
 
-The highlight of my 4-year stint at Sheffield agency, [Aspire Creative](https://www.aspirecreative.co.uk), was building this award-winning catering experience for Dine. The project involved planning, designing and coding the user flows and design system for an interactive menu-building app, tailored specifically for large events organisers. Not only was it great fun, but it went on to win [Best Use of Technology](https://www.thecaterer.com/articles/532082/cateys-2018-best-use-of-technology-award-dine-delivered) at the 2018 Catey Awards.
+The highlight of my 4-year stint at Sheffield agency, [Aspire Creative](https://www.aspirecreative.co.uk), was building this award-winning catering experience for Dine. The project involved planning, designing and coding the user flows and design system for an interactive menu-building app, tailored specifically for large events organisers. It won [Best Use of Technology](https://www.thecaterer.com/articles/532082/cateys-2018-best-use-of-technology-award-dine-delivered) at the 2018 Catey Awards.
 
 <ul class="list-inline">
   <li>
@@ -126,7 +126,7 @@ Design and development for this Sheffield-based software development firm includ
 
 ### Artyarn
 
-I've been lead designer at UK wool distributor and retailer, Artyarn, for several years. Core responsibilities have included establishing a design system for their online shop built with the EKM e-commerce platform, as well as providing branding, graphic design and photography services.
+I've been lead designer at UK wool distributor and retailer, Artyarn, for 7 years. Core responsibilities have included establishing a design system for their online shop built with the EKM e-commerce platform, as well as providing branding, graphic design and photography services.
 
 <ul class="list-inline">
   <li>

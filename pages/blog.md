@@ -8,7 +8,7 @@ date: 2019-05-01T00:03:00.000Z
 permalink: /blog/index.html
 ---
 
-This section of my site will be coming soon. I'm still in the process of transferring old posts over to the site but you can expect a number of articles to appear here shortly.
+This section of my site will be coming soon. I'm still transferring old posts over to the site but you can expect more content soon.
 
 If you&rsquo;d like to receive future updates, please [get in touch](/contact") or consider following me on social media:
 
