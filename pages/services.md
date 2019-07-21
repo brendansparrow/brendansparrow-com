@@ -201,12 +201,6 @@ Previous experience includes working for Sheffield-based agencies [EdHQ](https:/
   <div class="list-item">
     <a href="http://www.nusec.uk/" target="_blank" rel="noopener noreferrer">NUSEC</a>
   </div>
-  <div class="list-item">
-    <a href="http://www.envradnet.co.uk/">EnvRadNet</a>
-  </div>
-  <div class="list-item">
-    <a href="http://www.kwsbiotest.com/" target="_blank" rel="noopener noreferrer">KWS Biotest</a>
-  </div>
 </div>
 <h3>EdHQ</h3>
 <div class="client-list">
