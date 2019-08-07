@@ -526,6 +526,11 @@ footer ul li a[href]:visited {
 		transform: rotate(3deg);
 	}
 
+.break-container {
+    margin-left: -50%;
+    margin-right: -50%;
+}
+
 	.contact-form {
 		max-width: 80vw;
 		margin: 0 auto;
