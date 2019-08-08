@@ -1,7 +1,7 @@
 ---
 title: Services by Brendan Sparrow
 date: 2019-05-01T00:01:00.000Z
-permalink: /services/index.html
+permalink: /services
 navtitle: Services
 tags:
   - nav
