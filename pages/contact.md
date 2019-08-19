@@ -6,7 +6,7 @@ tags:
 navtitle: Contact
 section: contact
 date: 2019-05-01T00:04:00.000Z
-permalink: /contact
+permalink: /contact/index.html
 ---
 
 

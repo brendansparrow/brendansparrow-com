@@ -5,7 +5,7 @@ tags:
   - nav
 navtitle: Blog
 date: 2019-05-01T00:03:00.000Z
-permalink: /blog
+permalink: /blog/index.html
 ---
 
 This section of my site will be coming soon. I'm still transferring old posts over to the site but you can expect more content soon.
