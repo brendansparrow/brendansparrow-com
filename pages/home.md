@@ -9,8 +9,7 @@ tags:
 ---
 # Building digital products with style and purpose.
 
-Hi, I’m [Brendan](/about), a freelance web designer and front-end developer. For 10 years, I’ve been designing brands, crafting websites and generally trying to make the web a better place.
-I specialise in responsive web design, built with modern CSS to be blazing-fast, robust and accessible to everyone. In short: I can help you to get the most out of your website.
+Hi, I’m [Brendan](/about), a freelance web designer and developer, specialising in web typography and responsive front-end interfaces. For 10 years, I’ve been building websites from the brand up and generally fighting to make the web a better place.
 
 <section class="illustrated">
 
