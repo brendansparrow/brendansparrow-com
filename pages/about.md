@@ -156,6 +156,7 @@ An often overlooked area of web development is the performance of the final prod
 </section>
 
 
+
 ## Online
 
 Places you'll find me around the web:
