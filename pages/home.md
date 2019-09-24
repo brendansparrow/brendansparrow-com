@@ -79,7 +79,7 @@ Hi, I’m [Brendan](/about), a freelance web designer and developer, specialisin
 
 ## Services
 
-I've worked with over 120 companies&mdash;large and small&mdash;to plan, design, code, test and maintain their online presence. Meticulous and skilled in both design and code, I provide a complete service from sketch to server.
+I've worked with over 120 companies&mdash;large and small&mdash;to plan, design, code, test and maintain their online presence. Skilled in both design and code, I provide a complete service from sketch to server. Recently, I've particularly enjoyed building static websites following lean web design principles and the JAMstack methodology.
 
 <a href="/projects">View my most recent work</a>
 
