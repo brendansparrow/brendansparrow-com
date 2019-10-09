@@ -7,9 +7,9 @@ navtitle: Home
 tags:
   - nav
 ---
-# Building digital products with style and purpose.
+# Thoughtful, heartfelt design.
 
-Hi, I’m [Brendan](/about), a freelance web designer and developer, specialising in web typography and responsive front-end interfaces. For 10 years, I’ve been building websites from the brand up and generally fighting to make the web a better place.
+Hi, I’m [Brendan](/about), a freelance designer and developer based in Lincolnshire. Specialising in typography and responsive front-end interfaces for 10 years, I’ve recently moved into full-stack development and production within the film and games industries.
 
 <section class="illustrated">
 
