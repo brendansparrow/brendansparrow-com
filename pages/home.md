@@ -9,7 +9,7 @@ tags:
 ---
 # Thoughtful, heartfelt design.
 
-Hi, I’m [Brendan](/about), a freelance designer and developer based in Lincolnshire. Specialising in typography and responsive front-end interfaces for 10 years, I’ve recently moved into full-stack development and production within the film and games industries.
+Hi, I’m [Brendan](/about), a freelance designer and developer based in Lincolnshire. After specialising in typography and responsive front-end interfaces for 10 years, I’ve recently moved into full-stack development and production within the film and games industries.
 
 <section class="illustrated">
 
