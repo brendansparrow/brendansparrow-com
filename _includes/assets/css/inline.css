@@ -233,13 +233,6 @@ main > section > article > * {
 	margin-left: 1em;
 	margin-right: 1em;
 }
-.site-link::before {
-	position: absolute;
-	left: -1em;
-	content: '🔗';
-	transform-origin: 50% 50%;
-	transform: scale(0.75);
-}
 
 .illustrated {
 	margin: 1em 0;
