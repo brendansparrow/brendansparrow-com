@@ -15,7 +15,7 @@ html,
 body {
 	padding: 0;
 	margin: 0;
-	font-family: "Alegreya Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+	font-family: "Source Serif Pro", "New York", Sitka, Georgia, serif;
 	letter-spacing: -0.0125em;
 	word-spacing: 0.0325em;
 }
@@ -108,6 +108,10 @@ p a[href]:hover,
   background: #F8BE8E;
   color: #1E0033;
   border-bottom: 0.05em solid #1E0033;
+}
+
+.nav {
+  font-family: "Avenir Next", "Avenir", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif
 }
 
 
@@ -559,7 +563,7 @@ footer ul li a[href]:visited {
 /* desktop+ */
 @media screen and (min-width:1280px) {
 	body {
-		font-size: 125%;
+		font-size: 112.5%;
 	}
 }
 
