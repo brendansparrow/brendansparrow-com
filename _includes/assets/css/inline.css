@@ -27,7 +27,13 @@ body {
 	overflow-x:hidden;
 }
 
-.site-header,
+.site-header {
+  width: 100%;
+  padding: 1em;
+  background-color: white;
+  box-shadow: 0 -0.4rem 0.9rem 0.2rem rgba(0,0,0,.5);
+}
+
 main,
 .container {
 	width: 100%;
@@ -440,7 +446,7 @@ cite {
 
 footer {
 	position: relative;
-	background-color: #1E0033;
+	background-color: #2D3748;
 	color: #EFF3F6;
 	text-align: center;
 	-webkit-font-smoothing: antialiased;
@@ -487,6 +493,7 @@ footer ul li a[href]:visited {
 		display: flex;
 		flex-direction: row;
 		justify-content: space-between;
+    padding: 1em 2em;
 	}
 
 	h1,
@@ -553,6 +560,9 @@ footer ul li a[href]:visited {
 	body {
 		font-size: 112.5%;
 	}
+  .site-header {
+    padding: 1em 4em;
+  }
 }
 
 
