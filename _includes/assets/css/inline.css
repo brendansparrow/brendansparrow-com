@@ -1,10 +1,7 @@
-@font-face {
-  font-family: 'Tillana';
-  font-style: normal;
-  font-weight: normal;
-  font-display: swap;
-  src: url(./static/fonts/Tillana-Regular-subset.woff2) format("woff2"), url(./static/fonts/Tillana-Regular-subset.woff) format("woff");
-  unicode-range: U+20-7E,U+A9,U+2014,U+2019,U+1F517;
+@import url('https://rsms.me/inter/inter.css');
+html { font-family: 'Inter', sans-serif; }
+@supports (font-variation-settings: normal) {
+  html { font-family: 'Inter var', sans-serif; }
 }
 
 *, *:before, *:after {
@@ -15,7 +12,6 @@ html,
 body {
 	padding: 0;
 	margin: 0;
-	font-family: "Source Serif Pro", "New York", Sitka, Georgia, serif;
 	letter-spacing: -0.0125em;
 	word-spacing: 0.0325em;
 }
@@ -27,7 +23,6 @@ body {
 	min-height: 100vh;
 	grid-template-rows: auto 1fr auto;
 	background-color: #fafbfc;
-	/*background-image: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="4" height="4" viewBox="0 0 4 4"%3E%3Cpath fill="%239C92AC" fill-opacity="0.3" d="M1 3h1v1H1V3zm2-2h1v1H3V1z"%3E%3C/path%3E%3C/svg%3E');*/
 	color: #352a36;
 	overflow-x:hidden;
 }
@@ -46,8 +41,6 @@ section {
 }
 
 h1,h2,h3,h4,h5,h6 {
-	/*font-family: "SourceSerifBlack","Source Serif Pro", "Source Serif", "Charter", "Constantia", Georgia, serif;*/
-	font-family: "Avenir Next", "Avenir", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 	font-weight: 700;
 	color: #291E2A;
 	letter-spacing: -0.015em;
@@ -70,6 +63,7 @@ h3 {
 }
 
 p {
+  font-weight: 400;
 	margin-top: 0;
 }
 p + h3 {
@@ -108,10 +102,6 @@ p a[href]:hover,
   background: #F8BE8E;
   color: #1E0033;
   border-bottom: 0.05em solid #1E0033;
-}
-
-.nav {
-  font-family: "Avenir Next", "Avenir", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif
 }
 
 
@@ -172,7 +162,6 @@ small {
 
 /* Header Logo (style as h2) */
 .site-header > em {
-	/* font-family: "SourceSerifBlack", "Source Serif Pro", "Source Serif", "Charter", "Constantia", Georgia, serif; */
 	margin: .67em 0;
 	font-weight: 900;
 	font-style: normal;
@@ -276,7 +265,6 @@ button {
 	background-color: #FF782B;
 	color: white;
 	cursor: pointer;
-	/* font-family: "SourceSerifBlack","Source Serif Pro", "Source Serif", "Charter", "Constantia", Georgia, serif; */
 	font-weight: 700;
 	transition: all .2s;
 }
@@ -336,7 +324,6 @@ cite {
   -webkit-font-smoothing: antialiased;
 }
 .form-title {
-  /*font-family: "Source Serif Pro", Palatino, Georgia, serif;*/
   font-size: 1.5em;
   font-weight: 700;
   color: white;
@@ -504,6 +491,7 @@ footer ul li a[href]:visited {
 
 	h1,
 	.large-heading {
+    font-weight: 300;
 		font-size: 2.8em;
 		letter-spacing: -0.025em;
 	}
