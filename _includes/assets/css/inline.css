@@ -27,13 +27,6 @@ body {
 	overflow-x:hidden;
 }
 
-.site-header {
-  width: 100%;
-  padding: 1em;
-  background-color: white;
-  box-shadow: 0 -0.4rem 0.9rem 0.2rem rgba(0,0,0,.5);
-}
-
 main,
 .container {
 	width: 100%;
@@ -165,8 +158,14 @@ small {
 	font-family: "Courier New", "Courier", "Inconsolata", monospace;
 }
 
+.site-header {
+  width: 100%;
+  padding: 0.25em 1em;
+  margin-bottom: 1em;
+  background-color: white;
+  box-shadow: 0 -0.4rem 0.9rem 0.2rem rgba(0,0,0,.5);
+}
 
-/* Header Logo (style as h2) */
 .site-header > em {
 	margin: .67em 0;
 	font-weight: 900;
@@ -444,7 +443,7 @@ cite {
 }
 
 
-footer {
+.site-footer {
 	position: relative;
 	background-color: #2D3748;
 	color: #EFF3F6;
@@ -452,6 +451,9 @@ footer {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	padding: 1em 0;
+}
+.site-footer .container {
+  padding: 0 1em;
 }
 
 
