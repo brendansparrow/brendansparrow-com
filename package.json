@@ -1,26 +1,27 @@
 {
-  "name": "eleventy-netlify-boilerplate",
+  "name": "brendansparrow-com",
   "version": "1.0.1",
-  "description": "A boilerplate for building a fast static website with the Eleventy static site generator, for deployment to Netlify.",
+  "description": "A boilerplate for building a fast static website with the Eleventy static site generator.",
   "scripts": {
     "build": "npx eleventy",
     "watch": "npx eleventy --watch",
+    "serve": "npx eleventy --serve",
     "debug": "DEBUG=* npx eleventy"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/danurbanowicz/eleventy-netlify-boilerplate"
+    "url": "https://github.com/brendansparrow/brendansparrow-com"
   },
   "author": {
-    "name": "Dan Urbanowicz",
-    "email": "dan.urbanowicz@gmail.com",
-    "url": "https://www.danurbanowicz.com/"
+    "name": "Brendan Sparrow",
+    "email": "btsparrow@hotmail.co.uk",
+    "url": "https://www.brendansparrow.com/"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/danurbanowicz/eleventy-netlify-boilerplate/issues"
+    "url": "https://github.com/brendansparrow/brendansparrow-com/issues"
   },
-  "homepage": "https://github.com/danurbanowicz/eleventy-netlify-boilerplate",
+  "homepage": "https://brendansparrow.com",
   "devDependencies": {
     "@11ty/eleventy": "^0.8.2",
     "luxon": "^1.16.0",
