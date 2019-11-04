@@ -91,7 +91,7 @@ a[href]:hover {
 p a[href],
 .site-link,
 .client-list a {
-	background: linear-gradient(to top,#F8BE8E 40%,transparent 40%);
+	background: linear-gradient(to top,#F8BE8E 20%,transparent 20%);
 	border-bottom: 0.05em solid transparent;
 	padding: 0 0.125em;
 }
@@ -495,7 +495,7 @@ footer ul li a[href]:visited {
 		display: flex;
 		flex-direction: row;
 		justify-content: space-between;
-    padding: 1em 2em;
+    padding: 0.25em 2em;
 	}
 
 	h1,
@@ -569,7 +569,7 @@ footer ul li a[href]:visited {
 		font-size: 112.5%;
 	}
   .site-header {
-    padding: 1em 4em;
+    padding: 0.25em 4em;
   }
 }
 
