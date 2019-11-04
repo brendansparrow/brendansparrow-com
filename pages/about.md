@@ -49,7 +49,7 @@ I start every project by building an understanding of the specific requirements 
 
 <div class="illustrated">
   <p>I have an obsession with user-focused design and a compulsive need to simplify complex information flows to improve he user experience. Together, we will identify core opportunities for your business, develop strategies to support your users and apply an agile approach to research, information architecture, rapid prototyping and testing to ensure the user experience is the best it can be.</p>
-  <svg xmlns="http://www.w3.org/2000/svg" width="250" height="235">
+  <svg class="right" xmlns="http://www.w3.org/2000/svg" width="250" height="235">
   <g fill="none" fill-rule="nonzero">
     <ellipse cx="182.529" cy="231.623" fill="#B3B3B3" opacity=".25" rx="33.975" ry="2.853"/>
     <rect width="249.676" height="154.446" fill="#B3B3B3" opacity=".25" rx="27.6"/>
