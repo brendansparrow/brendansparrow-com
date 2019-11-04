@@ -1,0 +1,36 @@
+<section>
+  {% for project in projects | reverse %}
+    <article>
+      <img src="project.data.image" title="{{ project.data.imageTitle | project.description }}">
+      <h3>
+        <a href="{{ project.url | url }}">
+          {% if project.data.title %}
+            {{ project.data.title }}
+          {% else %}
+            Untitled
+          {% endif %}
+        </a>
+      </h3>
+      {% if project.data.description %}
+        <p>
+          {{ project.data.description }}
+        </p>
+      {% endif %}
+      <p>
+        <time datetime="{{ project.date | machineDate }}">
+          <small>{{ project.date | readableDate }} by {{ metadata.author.name }}</small>
+        </time>
+      </p>
+      {% if project.data.tags %}
+        <p>
+          {% for tag in project.data.tags %}
+            {%- if tag != "project" -%}
+              {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+            <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+            {%- endif -%}
+          {% endfor %}
+        </p>
+      {% endif %}
+    </article>
+  {% endfor %}
+</section>
