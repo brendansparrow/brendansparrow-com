@@ -526,10 +526,10 @@ footer ul li a[href]:visited {
 		transform: rotate(3deg);
 	}
 
-.break-container {
-    margin-left: -50%;
-    margin-right: -50%;
-}
+  .break-container {
+      margin-left: -50%;
+      margin-right: -50%;
+  }
 
 	.contact-form {
 		max-width: 80vw;
@@ -549,6 +549,10 @@ footer ul li a[href]:visited {
 	.client-list {
 		columns: 3;
 	}
+
+  .site-footer {
+    text-align: left;
+  }
 
 	footer .container {
 		display: flex;
