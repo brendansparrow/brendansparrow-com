@@ -1,6 +1,6 @@
 {
   "name": "brendansparrow-com",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A boilerplate for building a fast static website with the Eleventy static site generator.",
   "scripts": {
     "build": "npx eleventy",
