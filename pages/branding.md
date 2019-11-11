@@ -6,4 +6,4 @@ date: 2019-09-01T00:04:00.000Z
 permalink: /branding/index.html
 ---
 
-Branding services
+Content coming soon.

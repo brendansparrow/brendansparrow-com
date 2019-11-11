@@ -9,7 +9,7 @@ tags:
 ---
 # Design + Code.
 
-Hi, I’m [Brendan](/about), a freelance designer and developer based in Lincolnshire. After specialising in typography and responsive front-end interfaces for 10 years, I’ve recently moved into full-stack development and production within the film and games industries.
+Hi, I’m [Brendan](/about), a freelance designer and developer based in Lincolnshire. After specialising in typography and responsive front-end interfaces for 10 years, I offer a complete web design service from sketch to server, and everything in-between.
 
 <section class="illustrated">
 
@@ -79,7 +79,7 @@ Hi, I’m [Brendan](/about), a freelance designer and developer based in Lincoln
 
 ## Services
 
-I've worked with over 120 companies&mdash;large and small&mdash;to plan, design, code, test and maintain their online presence. Skilled in both design and code, I provide a complete service from sketch to server. Recently, I've particularly enjoyed building static websites following lean web design principles and the JAMstack methodology.
+I've worked with over 120 companies&mdash;large and small&mdash;to plan, design, code, test and maintain their online presence. Recently, I've particularly enjoyed building static websites following lean web design principles and the JAMstack methodology.
 
 <a href="/projects">View my most recent work</a>
 
