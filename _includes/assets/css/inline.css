@@ -4,6 +4,10 @@ html { font-family: 'Inter', sans-serif; }
   html { font-family: 'Inter var', sans-serif; }
 }
 
+html {
+	font-size: calc(14px + (22 - 14) * ((100vw - 300px) / (1980 - 300)));
+}
+
 *, *:before, *:after {
   box-sizing: border-box;
 }
