@@ -230,11 +230,6 @@ main > section > article > * {
 	display: block;
 	padding-bottom: 1em;
 }
-.site-link {
-	position: relative;
-	margin-left: 1em;
-	margin-right: 1em;
-}
 
 .illustrated {
 	margin: 1em 0;
