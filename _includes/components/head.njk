@@ -32,14 +32,8 @@
   <meta name="twitter:image" content="https://www.brendansparrow.com/static/img/poster.jpg">
   <meta name="twitter:image:alt" content="Website design with style and purpose">
 
-  <link rel="preconnect" href="//identity.netlify.com">
-  <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   {% set css %}
     {% include "assets/css/inline.css" %}
   {% endset %}
   <style>{{ css | cssmin | safe }}</style>
-  {% set js %}
-    {% include "assets/js/inline.js" %}
-  {% endset %}
-  <script>{{ js | jsmin | safe }}</script>
 </head>
