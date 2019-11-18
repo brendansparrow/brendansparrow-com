@@ -8,6 +8,11 @@ html { font-family: 'Inter', sans-serif; }
 
 html {
 	font-size: calc(14px + (22 - 14) * ((100vw - 300px) / (1980 - 300)));
+    font-family: system—ui,
+    apple-system, BlinkMacSystemFont,
+    “Segoe UI”, “Roboto”, “Oxygen”,
+    “Ubuntu”, “Cantarell”, “Fira Sans”,
+    “Droid Sans”, “Helvetica Neue”, sans-serif;
 }
 
 *, *:before, *:after {
