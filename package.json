@@ -6,7 +6,8 @@
     "build": "npx eleventy",
     "watch": "npx eleventy --watch",
     "serve": "npx eleventy --serve",
-    "debug": "DEBUG=* npx eleventy"
+    "debug": "DEBUG=* npx eleventy",
+    "lint": "npx pretty-quick"
   },
   "repository": {
     "type": "git",
@@ -24,13 +25,21 @@
   "homepage": "https://brendansparrow.com",
   "devDependencies": {
     "@11ty/eleventy": "^0.8.2",
+    "husky": "^3.1.0",
     "luxon": "^1.16.0",
     "markdown-it": "^8.4.2",
-    "markdown-it-anchor": "^5.2.4"
+    "markdown-it-anchor": "^5.2.4",
+    "prettier": "1.19.1",
+    "pretty-quick": "^2.0.1"
   },
   "dependencies": {
     "clean-css": "^4.2.1",
     "html-minifier": "^4.0.0",
     "uglify-es": "^3.3.9"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
   }
 }
