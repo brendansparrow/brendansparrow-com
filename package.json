@@ -33,6 +33,7 @@
     "pretty-quick": "^2.0.1"
   },
   "dependencies": {
+    "@11ty/eleventy-plugin-rss": "^1.0.7",
     "clean-css": "^4.2.1",
     "html-minifier": "^4.0.0",
     "uglify-es": "^3.3.9"
