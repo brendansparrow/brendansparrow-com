@@ -8,15 +8,16 @@ Based on [Eleventy-netlify-boilerplate](https://templates.netlify.com/template/e
 
 ## Features
 
-* Blog with tag support
-* Netlify CMS with editor previews
-* CSS minified and inlined for fastest page render
-* Pre-built and minified HTML
-* Responsive CSS Grid layout, with fallbacks
-* Uses Markdown files for content
-* Uses Liquid and/or Nunjucks templates for layout
-* 100% Javascript framework free
-* Optional pipeline for minified inline JS
-* Continuous Deployment workflow via Netlify
-* Content Management with Netlify CMS
-* Form processing with Netlify Forms
+- Blog with tag support
+- Netlify CMS with editor previews
+- CSS minified and inlined for fastest page render
+- Pre-built and minified HTML
+- Pre-commit code-linting using pretty-quick and husky
+- Responsive CSS Grid layout, with fallbacks
+- Uses Markdown files for content
+- Uses Liquid and/or Nunjucks templates for layout
+- 100% Javascript framework free
+- Optional pipeline for minified inline JS
+- Continuous Deployment workflow via Netlify
+- Content Management with Netlify CMS
+- Form processing with Netlify Forms
