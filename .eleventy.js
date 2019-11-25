@@ -46,10 +46,20 @@ module.exports = function(eleventyConfig) {
   });
 
   // only content in the `posts/` directory
+  // eleventyConfig.addCollection("posts", function(collection) {
+  //   return collection.getAllSorted().filter(function(item) {
+  //     return item.inputPath.match(/^\.\/posts\//) !== null;
+  //   });
+  // });
+  // enable draft posts
+  // https://remysharp.com/2019/06/26/scheduled-and-draft-11ty-posts
+  const now = new Date();
+  const livePosts = p => p.date <= now && !p.data.draft;
   eleventyConfig.addCollection("posts", function(collection) {
-    return collection.getAllSorted().filter(function(item) {
-      return item.inputPath.match(/^\.\/posts\//) !== null;
-    });
+    return collection
+      .getFilteredByGlob("./posts/*.md")
+      .filter(livePosts)
+      .reverse();
   });
 
   // only content in the `projects/` directory

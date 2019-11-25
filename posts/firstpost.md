@@ -1,7 +1,7 @@
 ---
 title: This is my first post
 summary: Why contemplating our mortality can be a powerful catalyst for change
-date: 2019-05-01
+date: 2019-11-24
 tags:
   - welcome
 ---
