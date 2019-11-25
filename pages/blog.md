@@ -15,16 +15,16 @@ If you&rsquo;d like to receive future updates, please [get in touch](/contact") 
 <nav class="nav">
   <ul class="social-links">
   <li class="nav-item">
-    <a class="site-link" href="https://www.twitter.com/brendansparrow" target="_blank" rel="noopener noreferrer">Twitter</a>
+    <a class="site-link" href="https://www.twitter.com/brendansparrow" target="_blank" rel="me">Twitter</a>
   </li>
   <li class="nav-item">
-    <a class="site-link" href="https://www.instagram.com/btsparrow" target="_blank" rel="noopener noreferrer">Instagram</a>
+    <a class="site-link" href="https://www.instagram.com/btsparrow" target="_blank" rel="me">Instagram</a>
   </li>
   <li class="nav-item">
-    <a class="site-link" href="https://www.github.com/brendansparrow" target="_blank" rel="noopener noreferrer">Github</a>
+    <a class="site-link" href="https://www.github.com/brendansparrow" target="_blank" rel="me">Github</a>
   </li>
   <li class="nav-item">
-    <a class="site-link" href="https://www.pinterest.com/brendansparrow" target="_blank" rel="noopener noreferrer">Pinterest</a>
+    <a class="site-link" href="https://www.pinterest.com/brendansparrow" target="_blank" rel="me">Pinterest</a>
   </li>
   </ul>
 </nav>
