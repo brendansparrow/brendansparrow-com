@@ -117,8 +117,8 @@ p a[href]:hover,
   }
 }
 
-.social-links .nav-item + .nav-item {
-  padding-left: 1em;
+.links .nav-item {
+  padding-right: 1em;
 }
 
 .sr-only,

@@ -13,7 +13,7 @@ This section of my site will be coming soon. I'm still transferring old posts ov
 If you&rsquo;d like to receive future updates, please [get in touch](/contact") or consider following me on social media:
 
 <nav class="nav">
-  <ul class="social-links">
+  <ul class="links">
   <li class="nav-item">
     <a class="site-link" href="https://www.twitter.com/brendansparrow" target="_blank" rel="me">Twitter</a>
   </li>
