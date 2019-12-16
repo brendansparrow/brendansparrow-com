@@ -19,5 +19,4 @@ Based on [Eleventy-netlify-boilerplate](https://templates.netlify.com/template/e
 - 100% Javascript framework free
 - Optional pipeline for minified inline JS
 - Continuous Deployment workflow via Netlify
-- Content Management with Netlify CMS
 - Form processing with Netlify Forms
