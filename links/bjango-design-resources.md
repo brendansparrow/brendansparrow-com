@@ -3,6 +3,7 @@ title: Design Resources by Bjango
 link: https://bjango.com/designresources/
 date: 2018-03-08
 tags:
+  - bookmarks
   - design
   - UI
 ---

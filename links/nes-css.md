@@ -1,8 +1,9 @@
 ---
 title: NES.CSS framework
-link: https://dbanks.design/blog/documenting-design-tokens/
+link: https://nostalgic-css.github.io/NES.css/
 date: 2019-12-12
 tags:
+  - bookmarks
   - design systems
 ---
 

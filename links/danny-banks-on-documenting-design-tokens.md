@@ -3,6 +3,7 @@ title: Documenting Design Tokens
 link: https://dbanks.design/blog/documenting-design-tokens/
 date: 2019-12-12
 tags:
+  - bookmarks
   - design systems
 ---
 
