@@ -652,6 +652,9 @@ cite {
   .site-header {
     background-color: var(--bg-color-dark);
   }
+  .logo path {
+    fill: #010101;
+  }
   img {
     opacity: 0.75;
     -webkit-transition: opacity 150ms ease-in-out;
