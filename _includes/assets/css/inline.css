@@ -1,8 +1,14 @@
-html {
-  font-size: calc(14px + (22 - 14) * ((100vw - 300px) / (1980 - 300)));
-  font-family: system—ui, apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
-    "Roboto", "Oxygen" "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
-    "Helvetica Neue", sans-serif;
+:root {
+  --bg-color: #fafbfc;
+  --bg-color-dark: #343139;
+  --text-color: #352a36;
+  --text-color-dark: #d6d2cc;
+  --headings-color: #291e2a;
+  --headings-color-dark: #fffdfb;
+  --link-color: #cc1a0e;
+  --link-color-dark: #8bd474;
+  --divider-color: #d6d2cc;
+  --divider-color-dark: #2b1b2f;
 }
 
 *,
@@ -19,14 +25,21 @@ body {
   word-spacing: 0.0325em;
 }
 
-/* Layout */
+html {
+  font-size: calc(14px + (22 - 14) * ((100vw - 300px) / (1980 - 300)));
+  font-family: system—ui, apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+    "Roboto", "Oxygen" "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+    "Helvetica Neue", sans-serif;
+}
 
 body {
   display: grid;
   min-height: 100vh;
   grid-template-rows: auto 1fr auto;
   background-color: #fafbfc;
+  background-color: var(--bg-color, #fafbfc);
   color: #352a36;
+  color: var(--text-color, #352a36);
   overflow-x: hidden;
 }
 
@@ -50,6 +63,7 @@ h5,
 h6 {
   font-weight: 600;
   color: #291e2a;
+  color: var(--headings-color, #291e2a);
   letter-spacing: -0.015em;
 }
 
@@ -89,6 +103,7 @@ code {
 a[href],
 a[href]:visited {
   color: #cc1a0e;
+  color: var(--link-color, #cc1a0e);
 }
 
 a[href],
@@ -99,16 +114,7 @@ a[href]:hover {
 p a[href],
 .site-link,
 .client-list a {
-  background: linear-gradient(to top, #f8be8e 20%, transparent 20%);
-  border-bottom: 0.05em solid transparent;
   padding: 0 0.125em;
-}
-p a[href]:hover,
-.site-link:hover,
-.client-list a:hover {
-  background: #f8be8e;
-  color: #1e0033;
-  border-bottom: 0.05em solid #1e0033;
 }
 
 @media screen and (max-width: 767px) {
@@ -448,8 +454,6 @@ cite {
 
 .site-footer {
   position: relative;
-  background-color: #2d3748;
-  color: #eff3f6;
   text-align: center;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -457,11 +461,6 @@ cite {
 }
 .site-footer .container {
   padding: 0 1em;
-}
-
-footer ul li a[href],
-footer ul li a[href]:visited {
-  color: #eff3f6;
 }
 
 .portrait {
@@ -621,5 +620,44 @@ footer ul li a[href]:visited {
     60% {
       transform: rotate(-2deg) translateY(-15px);
     }
+  }
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: var(--bg-color-dark, #343139);
+    color: var(--text-color-dark, #d6d2cc);
+  }
+  ::-moz-selection {
+    background: #000;
+    color: rgba(255, 255, 255, 0.85);
+  }
+  ::selection {
+    background: #000;
+    color: rgba(255, 255, 255, 0.85);
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: var(--headings-color-dark, #fffdfb);
+  }
+  a[href],
+  a[href]:visited {
+    color: var(--link-color-dark, #fffaf2);
+  }
+  .site-header {
+    background-color: var(--bg-color-dark);
+  }
+  img {
+    opacity: 0.75;
+    -webkit-transition: opacity 150ms ease-in-out;
+    transition: opacity 150ms ease-in-out;
+  }
+  img:hover {
+    opacity: 1;
   }
 }
