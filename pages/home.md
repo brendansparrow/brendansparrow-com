@@ -8,9 +8,9 @@ tags:
   - nav
 ---
 
-# Hi, I’m [Brendan](/about)—
+# Hi, I’m Brendan—
 
-an independent designer, developer and strategist helping forward-thinking organisations build impeccable digital products. I offer a complete web design service from sketch to server.
+an independent designer, developer and strategist helping forward-thinking organisations build impeccable digital products.
 
 <section class="illustrated">
 
@@ -80,7 +80,7 @@ an independent designer, developer and strategist helping forward-thinking organ
 
 ## Design + Code
 
-I've worked with over 120 companies&mdash;large and small&mdash;to plan, design, code, test and maintain their online presence. I build responsive websites and applications for both desktop and mobile and am confident working across all stages of a product’s lifespan from branding and naming, to content strategy, design and development. Recently, I've particularly enjoyed building static websites following lean web design principles and the JAMstack methodology.
+For the last 10 years, I've worked with over 120 companies to plan, design, code, test and maintain their online presence. I can help you with anything from branding, to content strategy, to design and development.
 
 <a href="/projects">View my most recent work</a>
 
