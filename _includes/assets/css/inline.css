@@ -30,6 +30,7 @@ html {
   font-family: system—ui, apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
     "Roboto", "Oxygen" "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
     "Helvetica Neue", sans-serif;
+  font-family: "Inconsolata", "Andale Mono", Consolas, monaco, monospace;
 }
 
 body {
@@ -61,6 +62,7 @@ h3,
 h4,
 h5,
 h6 {
+  font-family: "Hepta Slab";
   font-weight: 600;
   color: #291e2a;
   color: var(--headings-color, #291e2a);
@@ -70,13 +72,11 @@ h6 {
 h1,
 .large-heading {
   font-size: 1.5em;
-  font-weight: 900;
   line-height: 1.25;
   margin-bottom: 0.25em;
 }
 h2 {
   font-size: 1.777778em;
-  font-weight: 900;
   margin: 0 0 0.5em;
 }
 h3 {
@@ -183,7 +183,7 @@ small {
 
 .site-header > em {
   margin: 0.67em 0;
-  font-weight: 900;
+  font-weight: 600;
   font-style: normal;
 }
 .site-header > em a {
@@ -340,7 +340,6 @@ cite {
 }
 .form-title {
   font-size: 1.5em;
-  font-weight: 700;
   color: white;
   margin: 0;
 }
@@ -435,7 +434,6 @@ cite {
   padding: 0.75rem 1.5rem;
   color: white;
   font-size: 100%;
-  font-weight: 700;
   border-radius: 1.5em;
   border: 1px solid #026726;
   background-color: #089139;
@@ -500,7 +498,6 @@ cite {
 
   h1,
   .large-heading {
-    font-weight: 300;
     font-size: 2.8em;
     letter-spacing: -0.025em;
   }
