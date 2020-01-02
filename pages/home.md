@@ -7,9 +7,10 @@ navtitle: Home
 tags:
   - nav
 ---
-# Design + Code.
 
-Hi, I’m [Brendan](/about), a freelance designer and developer based in Lincolnshire. After specialising in typography and responsive front-end interfaces for 10 years, I offer a complete web design service from sketch to server, and everything in-between.
+# Hi, I’m [Brendan](/about)—
+
+an independent designer, developer and strategist helping forward-thinking organisations build impeccable digital products. I offer a complete web design service from sketch to server.
 
 <section class="illustrated">
 
@@ -77,9 +78,9 @@ Hi, I’m [Brendan](/about), a freelance designer and developer based in Lincoln
   </g>
 </svg>
 
-## Services
+## Design + Code
 
-I've worked with over 120 companies&mdash;large and small&mdash;to plan, design, code, test and maintain their online presence. Recently, I've particularly enjoyed building static websites following lean web design principles and the JAMstack methodology.
+I've worked with over 120 companies&mdash;large and small&mdash;to plan, design, code, test and maintain their online presence. I build responsive websites and applications for both desktop and mobile and am confident working across all stages of a product’s lifespan from branding and naming, to content strategy, design and development. Recently, I've particularly enjoyed building static websites following lean web design principles and the JAMstack methodology.
 
 <a href="/projects">View my most recent work</a>
 
