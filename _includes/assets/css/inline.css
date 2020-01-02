@@ -5,7 +5,7 @@
   --text-color-dark: #d6d2cc;
   --headings-color: #291e2a;
   --headings-color-dark: #fffdfb;
-  --link-color: #cc1a0e;
+  --link-color: #0f4c81;
   --link-color-dark: #8bd474;
   --divider-color: #d6d2cc;
   --divider-color-dark: #2b1b2f;
@@ -104,10 +104,14 @@ a[href],
 a[href]:visited {
   color: #cc1a0e;
   color: var(--link-color, #cc1a0e);
+  text-decoration: underline;
+  text-decoration-skip: ink;
+  text-decoration-skip-ink: auto;
+  text-decoration-color: currentColor;
+  text-decoration-thickness: 0.05em;
 }
 
-a[href],
-a[href]:hover {
+.nav-item a {
   text-decoration: none;
 }
 
