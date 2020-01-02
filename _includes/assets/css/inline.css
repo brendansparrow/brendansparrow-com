@@ -52,6 +52,10 @@ main,
   padding: 1em;
 }
 
+section {
+  padding-bottom: 1em;
+}
+
 h1,
 h2,
 h3,
@@ -502,6 +506,10 @@ cite {
   .large-heading {
     font-size: 2.8em;
     letter-spacing: -0.025em;
+  }
+
+  section {
+    padding: 2em 0;
   }
 
   .illustrated > svg {
