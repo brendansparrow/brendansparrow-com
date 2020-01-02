@@ -73,6 +73,7 @@ h1,
 .large-heading {
   font-size: 1.5em;
   line-height: 1.25;
+  margin-top: 1em;
   margin-bottom: 0.25em;
 }
 h2 {
@@ -112,6 +113,9 @@ a[href]:visited {
   text-decoration-color: currentColor;
   text-decoration-thickness: 0.05em;
 }
+a[href]:hover {
+  color: #3dff6e;
+}
 
 .nav-item a {
   text-decoration: none;
@@ -143,11 +147,6 @@ p a[href],
   overflow: hidden;
   clip: rect(0, 0, 0, 0);
   border: 0;
-}
-
-main :first-child,
-main > article :first-child {
-  margin-top: 0;
 }
 
 pre {
