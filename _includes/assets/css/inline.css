@@ -655,6 +655,9 @@ cite {
   .logo path {
     fill: #010101;
   }
+  .footer-logo path {
+    fill: #eff3f6;
+  }
   img {
     opacity: 0.75;
     -webkit-transition: opacity 150ms ease-in-out;
