@@ -1,5 +1,5 @@
 ---
-title: Services by Brendan Sparrow
+title: Previous Projects
 date: 2019-05-01T00:01:00.000Z
 permalink: /projects/index.html
 navtitle: Projects
@@ -52,7 +52,6 @@ I've been lead designer at UK wool distributor and retailer, Artyarn, for 7 year
     <a class="site-link" href="https://www.artyarn.co.uk/" target="_blank" rel="noopener noreferrer">Artyarn</a>
   </li>
 </ul>
-
 
 <section>
 
@@ -152,5 +151,3 @@ Previous experience includes working for Sheffield-based agencies [EdHQ](https:/
 </div>
 
 </section>
-
-
