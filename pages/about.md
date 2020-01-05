@@ -1,8 +1,8 @@
 ---
-title: About Brendan Sparrow
-date: 2019-05-01T00:02:00.000Z
+title: About Me
+date: 2019-05-01T00:03:00.000Z
 permalink: /about/index.html
-navtitle: About Me
+navtitle: Profile
 tags:
   - nav
 ---
