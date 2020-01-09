@@ -1,8 +1,9 @@
 ---
-title:
+title: Designing Accessible Color Systems
 link: https://stripe.com/en-de/blog/accessible-color-systems
 date: 2019-10-15
 tags:
+  - colour
   - bookmark
 ---
 
