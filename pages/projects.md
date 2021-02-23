@@ -9,7 +9,7 @@ tags:
 
 ### Dine Delivered
 
-The highlight of my 4-year stint at Sheffield agency, [Aspire Creative](https://www.aspirecreative.co.uk), was building this award-winning catering experience for Dine. The project involved planning, designing and coding the user flows and design system for an interactive menu-building app, tailored specifically for large events organisers. It won [Best Use of Technology](https://www.thecaterer.com/articles/532082/cateys-2018-best-use-of-technology-award-dine-delivered) at the 2018 Catey Awards.
+The highlight of my 4-year stint at Sheffield agency, [Aspire Creative](https://www.aspirecreative.co.uk), was building this award-winning catering experience for Dine. The project involved planning, designing and coding the user flows and design system for an interactive menu-building app, tailored specifically for large events organisers. It won [Best Use of Technology](https://www.dinedelivered.co.uk/blog/2018/07/12/dine-delivered-win-at-catey-awards!/) at the 2018 Catey Awards.
 
 <ul class="list-inline">
   <li>
