@@ -666,4 +666,7 @@ cite {
   img:hover {
     opacity: 1;
   }
+  .footer-logo {
+    filter: invert(100%) hue-rotate(180deg) brightness(120%) contrast(150%);
+  }
 }
